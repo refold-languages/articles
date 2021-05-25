@@ -4,7 +4,7 @@ roadmapTitle: "Enjoy the Language"
 sort: 1
 ---
 
-Popular language learning apps like Duolingo and Babel focus on making the language learning process fun through gamification and cute graphics.
+Popular language learning apps like Duolingo and Babbel focus on making the language learning process fun through gamification and cute graphics.
 What they fail to do is make the _language itself_ fun.
 
 Having fun in your target language is the only way to acquire the language.
