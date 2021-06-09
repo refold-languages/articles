@@ -112,7 +112,7 @@ We recommend learning 10 new cards per day.
 You can do more than 10 if you want, but remember that Anki reviews add up and can become overwhelming.
 
 To estimate the number of reviews you'll have, multiply the number of new cards you learn per day by 7.
-For example, if you do 10 cards per day, then after a few weeks, you'll have about ~70 reviews per day.
+For example, if you do 10 cards per day, then after a few weeks, you'll have about 70 reviews per day.
 
 
 [join-link]: /join

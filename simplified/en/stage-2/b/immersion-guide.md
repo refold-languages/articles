@@ -74,7 +74,6 @@ You can use subtitles and pause on each line, but you should not do any lookups.
 There’s a huge spectrum of difficulty when it comes to native content.
 For this test, you should choose content that’s meant for adults and it should be within a domain that you’re comfortable with.
 
-To determine if you are ready to move on to Stage 2C, choose a piece of native content that’s meant for adults.
 Watch an episode that you’ve never seen before.
 Stop to read each subtitle line. Without doing any lookups, ask yourself:
 1. Can I understand most of the sentences?

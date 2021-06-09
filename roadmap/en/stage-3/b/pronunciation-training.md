@@ -118,7 +118,7 @@ The downside is that it can be a bit chaotic, making it harder to hone in on spe
 
 Check out the following video to see an example of shadowing in English:
 
-`youtube: Kn94FOy3jBk`
+`youtube: https://www.youtube.com/watch?v=Kn94FOy3jBk`
 
 In the beginning, you won’t be able to keep up with your parent.
 This is normal.

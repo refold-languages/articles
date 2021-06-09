@@ -2,7 +2,7 @@
 title: "What's My Level?"
 roadmapTitle: "What's My Level?"
 sort: 3
-version: "1.0.0"
+version: "1.0.1"
 ---
 
 There are four stages In Refold’s Roadmap:
@@ -83,19 +83,19 @@ No matter what level you are at, we recommend reading the entire guide so you do
 Once you've read the guide, use the following test to find your level and which stage to start with:
 
 1. *Can you read the writing system of your TL?*
->**If no: Go to Stage 1.**
+>**If not, Go to Stage 1.**
 
-1. *Can you recognize most of the words of a TV show for children (7+ years old) while watching with TL subtitles?*
->**If no, go to Stage 2A.**
+2. *Can you recognize most of the words of a TV show for children (7+ years old) while watching with TL subtitles?*
+>**If not, go to Stage 2A.**
 
-1. *Can you follow the plot of a TV show for adults (16+ years old) while watching with TL subtitles?*
->**If no, go to Stage 2B.**
+3. *Can you follow the plot of a TV show for adults (16+ years old) while watching with TL subtitles?*
+>**If not, go to Stage 2B.**
 
-1. Do you have a near-perfect comprehension of a TV show for adults (16+) without any subtitles?
->**If no, go to Stage 2C.**
+4. Do you have a near-perfect comprehension of a TV show for adults (16+) without any subtitles?
+>**If not, go to Stage 2C.**
 
-1. Are you conversationally fluent in your TL, but want to continue deepening and expanding your fluency?
->**If no, go to Stage 3A.**
+5. Are you conversationally fluent in your TL, but want to continue deepening and expanding your fluency?
+>**If not, go to Stage 3A.**
 >**If yes, go to Stage 4.**
 
 It’s important to be honest with yourself when answering these questions.
