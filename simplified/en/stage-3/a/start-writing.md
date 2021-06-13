@@ -16,7 +16,7 @@ By practicing output at this level, you force yourself to test this instinct aga
 Combined with input, the feedback you get from outputting and correction helps this instinct fully mature faster than input alone.
 
 Because your instinct hasn’t fully developed yet, writing and speaking will probably feel uncomfortable.
-For Stage 3A, your goal of output is to get used to this discomfort and overcome any anxiety you may feel.
+For Stage 3A, the purpose of output is to get used to this discomfort and overcome any anxiety you may feel.
 Don't worry about correction until you move on to Stage 3B.
 
 ### Output Anxiety

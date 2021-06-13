@@ -41,9 +41,6 @@ If the answer is no to any of them, don't worry! Just keep immersing and you'll 
 
 If the answer to all three is yes, then you're ready for Stage 3. Congratulations!
 
-Stage 3 of the simplified guide is still in progress.
-Head over to the detailed [roadmap][roadmap] to continue your language journey.
-
 [level-4]: /simplified/stage-2/a/measure-comprehension#Level-4-Story
 [level-5]: /simplified/stage-2/a/measure-comprehension#Level-5-Comfortable
 [roadmap]: /roadmap

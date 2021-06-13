@@ -2,7 +2,7 @@
 title: "What's My Level?"
 roadmapTitle: "What's My Level?"
 sort: 3
-version: "1.0.1"
+version: "1.0.4"
 ---
 
 There are four stages In Refold’s Roadmap:
@@ -43,14 +43,14 @@ To fill those gaps quickly, you will narrow your focus to one genre (aka “doma
 Native content means content originally created in your TL for native speakers.
 It does not include translations or learner content.
 
-You can choose any domain you like (e.g. science fiction, fashion, cooking), however, we recommend focusing on casual conversation first.
+You can choose any domain you like (e.g. science fiction, fashion, cooking), however, we recommend focusing on slice-of-life TV first because it's most relevant to daily speech.
 
 ### Stage 3: Learn to Speak
 Stage 3 focuses on converting your comprehension into speaking ability.
 Stage 3 is broken into three substages:
 
 #### 3A: Understand Casual Conversation
-The style of language used in everyday conversation is different from what you mastered in Stage 2, so the first step is to build up your comprehension in this new domain.
+The style of language used in everyday conversation is a little different from what you mastered in Stage 2, so the first step is to build up your comprehension in this new domain.
 Once you can understand casual conversation, writing and speaking will come easily to you.
 
 #### 3B: Practice Writing and Pronunciation
@@ -82,20 +82,20 @@ No matter what level you are at, we recommend reading the entire guide so you do
 
 Once you've read the guide, use the following test to find your level and which stage to start with:
 
-1. *Can you read the writing system of your TL?*
->**If not, Go to Stage 1.**
+1. *Can you read the writing system? Do you know 1000 words?*
+>**If not, go to Stage 1.**
+>**If yes to both, go to Stage 2A.**
 
-2. *Can you recognize most of the words of a TV show for children (7+ years old) while watching with TL subtitles?*
->**If not, go to Stage 2A.**
+2. *Can you recognize most of the words in a TV show for children (7+ years old) while watching with TL subtitles?*
+>**If yes, go to Stage 2B.**
 
 3. *Can you follow the plot of a TV show for adults (16+ years old) while watching with TL subtitles?*
->**If not, go to Stage 2B.**
+>**If yes, go to Stage 2C.**
 
 4. Do you have a near-perfect comprehension of a TV show for adults (16+) without any subtitles?
->**If not, go to Stage 2C.**
+>**If yes, go to Stage 3A.**
 
 5. Are you conversationally fluent in your TL, but want to continue deepening and expanding your fluency?
->**If not, go to Stage 3A.**
 >**If yes, go to Stage 4.**
 
 It’s important to be honest with yourself when answering these questions.

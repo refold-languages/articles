@@ -2,6 +2,7 @@
 title: "Output Troubleshooting"
 roadmapTitle: "Output Q&A"
 sort: 2
+version: 1.0.1
 ---
 
 If output comes naturally to you, you may not need this guide. However, if you’ve been struggling with output even though you've gotten a ton of input, this guide provides a framework for thinking about the problems you may be facing and how to fix them.
@@ -33,9 +34,9 @@ When you've fully acquired something (meaning you can easily recognize and under
 There are three types of partially available language:
 1. **Incomplete**: Something pops into your head, but it's not enough to express the full idea.
 For example, a noun pops into your head, but you can’t remember the verb that goes with it.
-1. **Uncertain**: Something pops into your head, but you're not sure about it.
+2. **Uncertain**: Something pops into your head, but you're not sure about it.
 The puzzle pieces fit together, but something just doesn’t feel right.
-1. **TL Conflict**: Two things pop into your head, and you're not sure which is correct.
+3. **TL Conflict**: Two things pop into your head, and you're not sure which is correct.
 
 In all three of these cases, you just need a little extra exposure to the word or pattern to build the ability to use it yourself.
 Make a mental note to look for this pattern in your immersion.
@@ -105,7 +106,7 @@ Say something else that you're confident in.
 Don't try to use fancy words, difficult concepts, or domains that you haven't yet learned how to comprehend.
 
 Remember, you are trying to master the domain of everyday conversation.
-Don't try to give a dissertation on physics or politics.
+Don't try to write a dissertation on physics or politics.
 
 Don't beat yourself up for having gaps in your knowledge.
 Once you've mastered your first domain, expanding out into other domains becomes much easier.
