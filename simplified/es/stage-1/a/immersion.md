@@ -38,7 +38,7 @@ Hacer inmersión en un nuevo idioma es agotador. Te cansarás muy rápidamente. 
 
 Asegúrate de tomar descansos frecuentemente y siestas para recargar energías. Con el tiempo, tu resistencia aumentará hasta que puedas hacer inmersión durante múltiples horas seguidas.
 
-### Encontrar Contenido
+### Encontrar contenido
 A lo largo de tu aventura, necesitarás dedicar miles de horas exponiéndote a tu L2, por lo que es importante que encuentres contenido que disfrutes. Mientras más disfrutes del contenido, más querrás hacer inmersión y más rápido aprenderás.
 
 Para maximizar el tiempo que pasas con el idioma, convierte tu consumo de media tanto como sea posible a tu L2. Esto incluye shows de televisión, películas, YouTube y blogs. Necesitarás explorar qué contenido está disponible en tu L2 y encontrar el que sea más interesante y divertido para ti.
