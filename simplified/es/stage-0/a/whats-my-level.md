@@ -32,13 +32,13 @@ Cuando llegues a la Etapa 2C, estarás disfrutando de tu contenido, pero aún ha
 
 Contenido nativo significa contenido hecho originalmente en tu L2 para hablantes nativos. No incluye traducciones ni contenido para estudiantes.
 
-Puedes elegir cualquier campo que desees (por ejemplo ciencia ficción, moda, cocina), pero sin embargo, recomendamos centrarnos primero en el género de slice-of-life (historias y contenido relacionado con el día a día), debido a que es el mas relevante al habla que vemos a diario.
+Puedes elegir cualquier campo que desees (por ejemplo ciencia ficción, moda, cocina), pero sin embargo, recomendamos centrarnos primero en el género de slice-of-life (historias y contenido relacionado con el día a día), debido a que es el más relevante al habla que vemos a diario.
 
 ### Etapa 3: Aprende a hablar
 La Etapa 3 se centra en convertir tu comprensión en habilidad para hablar. La etapa 3 se divide en tres sub-etapas:
 
 #### 3A: Entender conversación casual
-El estilo utilizado en en conversaciones del día a día es un poco diferente a lo que has dominado en la Etapa 2, así que el primer paso es aumentar tu nivel de comprensión en este nuevo campo. Una vez puedas entender la conversación casual, escribir y hablar te será fácil.
+El estilo utilizado en conversaciones del día a día es un poco diferente a lo que has dominado en la Etapa 2, así que el primer paso es aumentar tu nivel de comprensión en este nuevo campo. Una vez puedas entender la conversación casual, escribir y hablar te será fácil.
 
 #### 3B: Practica Escritura y Pronunciación
 En la Etapa 3B, practicarás la escritura y pronunciación como habilidades separadas. Para la práctica de pronunciación, elegirás un pariente de idioma y copiarás su forma de hablar para poder sonar como un nativo.
