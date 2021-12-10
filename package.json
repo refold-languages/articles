@@ -1,0 +1,22 @@
+{
+  "name": "refold-articles",
+  "version": "1.0.1",
+  "description": "Articles repository for refold.la",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/refold-languages/articles.git"
+  },
+  "author": "",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/refold-languages/articles/issues"
+  },
+  "homepage": "https://github.com/refold-languages/articles#readme",
+  "dependencies": {
+    "path-to-regexp": "^6.2.0"
+  }
+}
