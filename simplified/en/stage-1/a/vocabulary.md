@@ -10,6 +10,7 @@ You need enough comprehension to start learning directly from your immersion.
 As mentioned in the last article, the fastest way to build this foundation is to memorize the most common vocabulary.
 
 ### Study Tools
+
 There are many different memorization tools and techniques.
 In our opinion, spaced repetition systems (SRS) are, by far, the most effective memorization tool.
 
@@ -24,6 +25,7 @@ Anki is a bit complicated so it's best to set aside some time to install and con
 You can find a full guide about how to get started with Anki [here][anki-guide].
 
 ### Study Strategy
+
 In immersion learning, your goal is to understand; not speak.
 That means that you only need to build your passive vocabulary: the set of words you can recognize and understand.
 
@@ -31,6 +33,7 @@ You don’t need to practice recalling words from memory.
 By the time you reach Stage 3, your brain will naturally start converting your passive vocabulary into active vocabulary and you will be able to recall the words without extra effort.
 
 ### Choosing a Word List
+
 Anki "decks" are premade collections of Anki flashcards that you can download and study.
 The Refold community is hard at work building Anki decks that are ideal for new learners.
 
@@ -39,12 +42,14 @@ To access these decks, join the free [Refold Discord community][join-link] for y
 If there's no Refold deck available for your target language (TL), you can either use a premade deck from a different source, or you can create your own deck.
 
 #### Choosing a Premade Deck
+
 In a good premade deck, each card will have a word, an example sentence, a definition, and ideally, audio for the word/sentence.
 
 The Refold community has compiled lists of the best existing decks for each language.
 Join the [community][join-link] to access these recommendations.
 
 #### Creating Your Own Deck
+
 If you can’t find a good premade deck that fits the criteria above, you can create your own and share it with the community.
 
 The first step to creating a deck is to choose the words you want to learn.
@@ -62,10 +67,10 @@ Once you have your list of words, you will need to gather the necessary informat
 There are many types of cards you can create, but we recommend that you keep it simple.
 
 On the front of the card, put the word.
-![](images/vocabulary-card-front.png)
+![](../../../images/vocabulary-card-front.png)
 
 On the back, put an example sentence and a definition.
-![](images/vocabulary-card-back.png)
+![](../../../images/vocabulary-card-back.png)
 
 Beginners may also want to put a translation of the example sentence on the back to help them understand.
 However, as you improve, you should avoid using translations because they are nearly always inaccurate.
@@ -74,6 +79,7 @@ Also, remember that you are only studying for recognition and understanding.
 Make sure that the front of the card does not have any of your NL on it; only your TL.
 
 ### SRS Best Practices
+
 Every new word you learn comes back as multiple reviews later on.
 One of the most common mistakes new learners make is learning too many cards too quickly.
 Too many new cards leads to too many reviews, which often leads to burnout.

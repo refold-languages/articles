@@ -13,6 +13,7 @@ You can start sentence mining at any time, but it will be difficult if you don't
 We recommend learning at least 1000 words before starting to sentence mine.
 
 ### Sentences, Not Words
+
 We highly recommend putting an example sentence on each of your cards.
 Cards with only a word and its definition cause multiple problems in the learning process:
 
@@ -37,6 +38,7 @@ When the word is by itself without any surrounding context, you don't know how i
 An example sentence shows you how the word fits into the broader language.
 
 ### How to Choose Sentences
+
 Not every sentence is good for learning.
 There are two major criteria you should consider when deciding if a sentence is a good example for a word.
 Sentences that meet both of these criteria are called 1T sentences.
@@ -51,8 +53,8 @@ If there are multiple unknowns, don’t use that sentence.
 When you look up the definition of the unknown word or the explanation of the unknown grammar structure, the meaning of the sentence as a whole should become clear to you.
 If it still doesn't make sense after a lookup, then it's not a good example sentence.
 
-
 ### How to Choose Words
+
 Not every word is worth learning.
 To decide on which words to learn, use the following criteria:
 
@@ -64,10 +66,12 @@ To decide on which words to learn, use the following criteria:
 If the answer is yes to any of those questions, then you should learn the word.
 
 ### When to Mine
+
 Intensive immersion is the best time to sentence mine.
 You are already doing word lookups and trying to understand sentences so it's easy to pick out good 1T sentences in the process.
 
 There are multiple methods for creating cards from mined sentences:
+
 1. Create cards while you immerse (synchronous mining).
 1. Save sentences you want to learn and then create cards later (asynchronous mining).
 1. Use software to automatically create cards (automatic mining).
@@ -78,6 +82,7 @@ There are many tools available to help make synchronous mining easy.
 Join the [Refold community][join-link] for recommendations of which tool has the best support for your TL.
 
 ### How to Create Cards
+
 There are many different card formats you can use.
 We recommend starting with cards that only contain text because they are easiest to create.
 There are two types of text cards: vocabulary and sentence.
@@ -87,33 +92,35 @@ In [Stage 1][vocabulary-cards], we recommended vocab cards because you didn’t 
 Now that you’re in Stage 2, we recommend switching to sentence cards.
 
 #### Sentence card format:
-* Front: Example sentence
-* Back: Definition of target word
+
+-   Front: Example sentence
+-   Back: Definition of target word
 
 Once you are comfortable with Anki, you can create cards with pictures and audio.
 You can learn more about advanced card formats [here][advanced-mining].
 
 #### Example Flow
 
-* Step 1:  Find a 1T sentence in your immersion.
-* Step 2: Put the sentence on the front of a card
-![](images/sentence-card-front.png)
+-   Step 1: Find a 1T sentence in your immersion.
+-   Step 2: Put the sentence on the front of a card
+    ![](../../../images/sentence-card-front.png)
 
-* Step 3: Put the definition on the back of the card
-![](images/sentence-card-back.png)
+-   Step 3: Put the definition on the back of the card
+    ![](../../../images/sentence-card-back.png)
 
 ### Translations
+
 We do not recommend putting a full translation of the sentence on the card.
 Different languages have different ways of expressing ideas so translations are nearly always inaccurate.
 If the sentence is 1T, then you should be able to understand it without a translation.
 
 ### How many Cards?
+
 We recommend learning 10 new cards per day.
 You can do more than 10 if you want, but remember that Anki reviews add up and can become overwhelming.
 
 To estimate the number of reviews you'll have, multiply the number of new cards you learn per day by 7.
 For example, if you do 10 cards per day, then after a few weeks, you'll have about 70 reviews per day.
-
 
 [join-link]: /join
 [vocab-vs-sentence-video]: https://www.youtube.com/watch?v=GLfmKWhLhjk

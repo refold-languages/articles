@@ -10,12 +10,14 @@ The purpose of Stage 1 is to create a foundation for comprehension so that you c
 As described in [Stage 0: Activities Explained][0a-activities-explained], active study helps you build this foundation much faster than immersion alone.
 
 There are four parts to active study:
+
 1. Phonetics
 1. Writing system
 1. Vocabulary
 1. Basic grammar
 
 ### Phonetics
+
 Each language has a unique set of sounds that are different from other languages.
 There are sounds in your TL that aren't shared with your native language (NL).
 
@@ -31,6 +33,7 @@ Don’t practice pronunciation until you can accurately hear the phonetics of th
 If you do, you may get a bad accent that will be hard to undo later.
 
 ### Writing System
+
 To accurately learn words, you need to read them in the language they were written in.
 If your TL uses a phonetic writing system, then learn the characters and connect the symbols to the sounds you learned about in your phonetics study.
 
@@ -45,6 +48,7 @@ Just learn the basics.
 Reading is a core part of the Refold Roadmap, so you will have plenty of opportunities to master the writing system over time.
 
 ### Vocabulary
+
 When you first start learning a language, you won't be able to understand any of your immersion.
 The fastest way to boost your comprehension is to learn the 1000 most common words.
 The 1000 most common words cover 70-80% of daily speech.
@@ -59,13 +63,15 @@ An SRS is much more efficient than regular flashcards because it automatically a
 In the next article, we’ll explain what an SRS is, which one to use, and how to start studying the most common vocabulary for your TL.
 
 ### Grammar
+
 #### There Is No "Why"
+
 When new learners learn a new piece of grammar, they often ask, “Why does the language work this way?”.
 They are looking for a concrete rule that explains the language.
 
 Unfortunately, there is often no answer to their question.
 The truth is that language is too messy and chaotic to be explained by a simple set of rules.
-There is no *why* and it is pointless to ask *why* a language is the way that it is.
+There is no _why_ and it is pointless to ask _why_ a language is the way that it is.
 
 It's important to realize that grammar "rules" aren't actually rules.
 They're just guidelines for how the language is generally used.
@@ -76,9 +82,10 @@ Even if you were able to, you wouldn’t have enough time to use that knowledge 
 Fortunately, our brains are really good at learning grammar intuitively.
 Through immersion, you will gain an intuitive understanding of the language so that you can speak correctly without needing to think about grammar.
 
-![](images/grammar-meme.jpg)
+![](../../../images/grammar-meme.jpg)
 
 #### Comprehension Focus
+
 Although grammar study isn't useful for speaking, it is very useful for comprehension.
 While vocabulary study helps you understand individual words, grammar study helps you understand full sentences.
 
@@ -88,8 +95,6 @@ As you see new grammar structures in your immersion, read about how they work.
 Most of your grammar study probably won't make sense until after you've immersed and seen many examples.
 If something doesn't make sense, then skip it.
 You'll eventually figure it out through immersion.
-
-
 
 [join-link]: /join
 [0a-activities-explained]: /simplified/stage-0/a/activities-explained
