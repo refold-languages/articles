@@ -62,7 +62,7 @@ Muchos estudiantes ya tienen cierta experiencia estudiando su lengua meta por lo
 Una vez que hayas leído la guía, usa la siguiente prueba para encontrar tu nivel y con qué etapa empezar:
 
 1. *¿Puedes leer el sistema de escritura? ¿Sabes 1000 palabras?*
-> **Si no es así, ve a la Etapa 3A.** **Si la respuesta es sí a ambas, ve a la Etapa 4.**
+> **Si no es así, ve a la Etapa 1.** **Si la respuesta es sí a ambas, ve a la Etapa 2A.**
 
 2. *¿Puedes reconocer la mayoría de las palabras de un programa de televisión para niños (+7 años) mientras ves con subtítulos en tu L2?*
 > **Si es así, ve a la Etapa 2B.**
