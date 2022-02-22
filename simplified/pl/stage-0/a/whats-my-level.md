@@ -28,17 +28,17 @@ Będąc w podetapie 2B masz wystarczająco solidne podstawy, aby zacząć robić
 Oglądając i czytając treści związane z twoim zainteresowaniami, twoje zrozumienia będzie się pogłębiać. Spędzanie czasu na imersji w twoim języku docelowym stanie się czymś, co naprawdę kochasz. Gdy twoja immersja stanie się rozrywką, przejdź do podetapu 2C.
 
 #### 2C: Zawęź swój obszar nauki
-W Etapie 2C zacząłeś już dobrze bawić się podczas immersji, ale twoje zrozumienie wciąż jest dziurawe. Aby szybko załatać te dziury, skoncentruj się na jednym gatunku (lub też„domenie”) treści dla native speakerów, dopóki nie będziesz w stanie w pełni go zrozumieć.
+W Etapie 2C zacząłeś już dobrze bawić się podczas immersji, ale twoje zrozumienie wciąż jest dziurawe. Aby szybko załatać te dziury, skoncentruj się na jednym gatunku (lub też„sferze”) treści dla native speakerów, dopóki nie będziesz w stanie w pełni go zrozumieć.
 
 Treści dla native speakerów to treści zrobione w kraju twojego docelowego języka. Nie obejmuje to tłumaczeń ani treści dla osób uczących się tego języka.
 
-Możesz wybrać dowolną domenę, którą lubisz (np. sci-fi, moda, gotowanie), jednak zalecamy, aby zacząć od seriali slice-of-life (Fragmenty z życia), ponieważ jest to gatunek najbliższy codziennej mowie.
+Możesz wybrać dowolną sferę, którą lubisz (np. sci-fi, moda, gotowanie), ale zalecamy, zaczęcie od seriali slice-of-life (okruchy życia), ponieważ jest to gatunek najbliższy codziennej mowie.
 
 ### Etap 3: Naucz się mówić
 Etap 3 koncentruje się na przekształceniu zrozumienia języka w umiejętność mówienia. Etap 3 dzieli się na trzy podetapy:
 
 #### 3A: Zrozumienie codziennej rozmowy
-Styl języka używanego w codziennej konwersacji nieco różni się od języka, który opanowałeś w Etapie 2. Twoim pierwszym krokiem powinno być zbudowanie zrozumienia tej nowej domeny. Gdy tylko zrozumiesz codzienną rozmowę, pisanie i mówienie staną się dla ciebie łatwe.
+Styl języka używanego w codziennej konwersacji nieco różni się od języka, który opanowałeś w Etapie 2. Twoim pierwszym krokiem powinno być zbudowanie zrozumienia tej nowej sfery językowej. Gdy tylko zrozumiesz codzienną rozmowę, pisanie i mówienie staną się dla ciebie łatwe.
 
 #### 3B: Pisanie i Wymowa
 W podetapie 3B będziesz ćwiczyć pisanie i wymowę. W celu nauki wymowy wybierzesz językowego "rodzica" i skopiujesz jego sposób mówienia, tak abyś mógł brzmieć jak native speaker tego języka.
@@ -48,10 +48,10 @@ Streamerzy, podkasterzy i YouTuberzy są świetnymi kandydatami na takiego rodzi
 #### 3C: Zacznij mówić
 W podetapie 3C połączysz swoje umiejętności pisania i wymowy, aby zacząć mówić. Pod koniec Etapu 3 osiągniesz podstawową płynność w swoim języku docelowym.
 
-Podstawowa płynność oznacza możliwość pełnego funkcjonowania w danym języku. Będziesz mógł mówić o codziennym życiu i o innych domenach, które opanowałeś. Najlepsze jest to, że nie będziesz tłumaczył z polskiego. Będziesz umieć formułować myśli w swoim języku docelowym, mówić naturalnie i czuć się wygodnie podczas mówienia.
+Podstawowa płynność oznacza możliwość pełnego funkcjonowania w danym języku. Będziesz mógł mówić o codziennym życiu i o innych sferach, które opanowałeś. Najlepsze jest to, że nie będziesz tłumaczył z polskiego. Będziesz umieć formułować myśli w swoim języku docelowym, mówić naturalnie i czuć się wygodnie podczas mówienia.
 
 ### Etap 4: Rozszerz swoje umiejętności
-Po osiągnięciu podstawowej płynności, możesz kontynuować proces nabywania języka. Poprzez immersje możesz zwiększyć swoje zrozumienia nowych domen, na przykład biologii, biznesu czy polityki. Możesz też polepszyć swoją płynność i skupić się na brzmieniu bardziej jak native speaker.
+Po osiągnięciu podstawowej płynności, możesz kontynuować proces nabywania języka. Poprzez immersje możesz zwiększyć swoje zrozumienia nowych sfer, na przykład biologii, biznesu czy polityki. Możesz też polepszyć swoją płynność i skupić się na brzmieniu bardziej jak native speaker.
 
 W etapie 4 wyjaśniamy różne metody rozszerzania i pogłębiania umiejętności językowych.
 
