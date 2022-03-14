@@ -20,14 +20,14 @@ Obejrzyj ten filmik, aby zobaczyć przykład śledzenia w języku angielskim:
 
 `youtube: https://www.youtube.com/watch?v=Kn94FOy3jBk`
 
-### Jak cieniować
-Na początku śledzenie będzie dla ciebie trudne. Prawdopodobnie będziesz w stanie wycieniować jedynie kilka słów przed straceniem wątku rozmowy. Jest to jak najbardziej naturalne. Po prostu kontynuj nawet jeśli jesteś w stanie zacieniować jedynie dwa słowa na zdanie.
+### Jak Śledzić
+Na początku śledzenie będzie dla ciebie trudne. Prawdopodobnie będziesz w stanie wyśledzić jedynie kilka słów przed straceniem wątku rozmowy. Jest to jak najbardziej naturalne. Po prostu kontynuj nawet jeśli jesteś w stanie wyśledzić jedynie dwa słowa na zdanie.
 
-Po pewnym czasie z łatwością uda ci się nadążać za audio. Będziesz w stanie usłyszeć audio i od razu je powtórzyć. Gdy tylko będziesz już spokojnie nadążał za audio skup się na wymowie. Celem cieniowania, jest brzmieć tak podobnie jak tylko się da do osoby, którą cieniujesz.
+Po pewnym czasie z łatwością uda ci się nadążać za audio. Będziesz w stanie usłyszeć audio i od razu je powtórzyć. Gdy tylko będziesz już spokojnie nadążał za audio skup się na wymowie. Celem śledzenia, jest brzmieć tak podobnie jak tylko się da do osoby, której audio próbujesz wyśledzić.
 
 
-### Wybieranie dobrych treści do cieniowania
-Na początku, kiedy dopiero zaczynasz cieniować, możesz robić to z dowolnym audio. Gdy tylko zaczniesz czuć się komfortowo, zacznij cieniować jedynie twojego językowego rodzica. Jeżeli będziesz próbował naśladować wiele różnych osób to twój akcent stanie się dziwną mieszanką wszystkich ich akcentów. Skupiając się jednej na jednej osobie, zaczniesz mówić z naturalnym i spójnym akcentem.
+### Wybieranie dobrych treści do śledzenia
+Na początku, kiedy dopiero zaczynasz śledzić, możesz robić to z dowolnym audio. Gdy tylko zaczniesz czuć się komfortowo, zacznij śledzić jedynie twojego językowego rodzica. Jeżeli będziesz próbował naśladować wiele różnych osób to twój akcent stanie się dziwną mieszanką wszystkich ich akcentów. Skupiając się jednej na jednej osobie, zaczniesz mówić z naturalnym i spójnym akcentem.
 
 Wybierz treść, w której twój rodzic językowy mówi naturalnie. Najlepiej byłoby, gdyby mówili bez scenariusza. Powinieneś mieć przynajmniej [poziom 5 zrozumienia][level-5] wybranego audio.
 
