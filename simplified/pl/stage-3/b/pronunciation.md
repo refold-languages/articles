@@ -31,7 +31,7 @@ Na początku, kiedy dopiero zaczynasz cieniować, możesz robić to z dowolnym a
 
 Wybierz treść, w której twój rodzic językowy mówi naturalnie. Najlepiej byłoby, gdyby mówili bez scenariusza. Powinieneś mieć przynajmniej [poziom 5 zrozumienia][level-5] wybranego audio.
 
-Zalecamy też cieniowanie z filmikami, a nie tylko z czystym audio, i zobaczenie również języka ciała twojego rodzica. Twój mózg podświadomie wchłonie tę informację i dzięki temu zaczniesz lepiej naśladować ich sposób mówienia.
+Zalecamy też śledzenie z filmikami, a nie tylko z czystym audio, i zobaczenie również języka ciała twojego rodzica. Twój mózg podświadomie wchłonie tę informację i dzięki temu zaczniesz lepiej naśladować ich sposób mówienia.
 
 [pronunciation-training]: /roadmap/stage-3/b/pronunciation-training
 [level-5]: /simplified/stage-2/a/measure-comprehension#Level-5-Comfortable
