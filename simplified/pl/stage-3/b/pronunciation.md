@@ -9,19 +9,19 @@ Dzięki ćwiczeniu słuchaniu powinieneś teraz dobrze słyszeć dźwięki swoje
 
 Wymowa jest umiejętnością fizyczną. Mięśnie twojej buzi potrzebują treningu. Minie kilka tygodni, nim twoje usta zaczną wymawiać dźwięki nowego języka.
 
-### Cieniowanie
-Istnieje wiele różnych [sposobów ćwiczenia][pronunciation-training] wymowy, ale najważniejszym z nich jest cieniowanie.
+### Śledzenie
+Istnieje wiele różnych [sposobów ćwiczenia][pronunciation-training] wymowy, ale najważniejszym z nich jest śledzenie.
 
-Cieniowanie polega na słuchaniu głosu native speakera, i naśladowanie go w czasie rzeczywistym.
+Śledzenie polega na słuchaniu głosu native speakera, i naśladowanie go w czasie rzeczywistym.
 
-Cieniowanie jest wspaniałym sposobem polepszenia wymowy, ponieważ pozwala ci usłyszeć różnice między twoją wymową i wymową native speakera. Dzięki temu dostajesz natychmiastową informację zwrotną o jakości twojej wymowy, i od razu rozumiesz, co musisz zmienić, aby brzmieć bardziej naturalnie.
+Śledzenie jest wspaniałym sposobem polepszenia wymowy, ponieważ pozwala ci usłyszeć różnice między twoją wymową i wymową native speakera. Dzięki temu dostajesz natychmiastową informację zwrotną o jakości twojej wymowy, i od razu rozumiesz, co musisz zmienić, aby brzmieć bardziej naturalnie.
 
 Obejrzyj ten filmik, aby zobaczyć przykład śledzenia w języku angielskim:
 
 `youtube: https://www.youtube.com/watch?v=Kn94FOy3jBk`
 
 ### Jak cieniować
-Na początku cieniowanie będzie dla ciebie trudne. Prawdopodobnie będziesz w stanie wycieniować jedynie kilka słów przed straceniem wątku rozmowy. Jest to jak najbardziej naturalne. Po prostu kontynuj nawet jeśli jesteś w stanie zacieniować jedynie dwa słowa na zdanie.
+Na początku śledzenie będzie dla ciebie trudne. Prawdopodobnie będziesz w stanie wycieniować jedynie kilka słów przed straceniem wątku rozmowy. Jest to jak najbardziej naturalne. Po prostu kontynuj nawet jeśli jesteś w stanie zacieniować jedynie dwa słowa na zdanie.
 
 Po pewnym czasie z łatwością uda ci się nadążać za audio. Będziesz w stanie usłyszeć audio i od razu je powtórzyć. Gdy tylko będziesz już spokojnie nadążał za audio skup się na wymowie. Celem cieniowania, jest brzmieć tak podobnie jak tylko się da do osoby, którą cieniujesz.
 
