@@ -39,7 +39,7 @@ Aby w pełni zaadoptować rodzica musisz:
 1. Dużo słuchać jego treści.
 1. Poćwiczyć mówienie w stylu twojego rodzica.
 
-Wszyscy naturalnie naśladujemy ludzi, z którymi spędzamy dużo czasu. Jeśli często słuchasz swojego rodzica, to naturalnie zaczniesz go naśladować. Możesz przyspieszyć ten proces, wykonując ćwiczenie nazywane "cieniowaniem". Wytłumaczymy jak cieniować swojego rodzica w Etapie 3B.
+Wszyscy naturalnie naśladujemy ludzi, z którymi spędzamy dużo czasu. Jeśli często słuchasz swojego rodzica, to naturalnie zaczniesz go naśladować. Możesz przyspieszyć ten proces, wykonując ćwiczenie nazywane "śledzeniem". Wytłumaczymy jak cieniować swojego rodzica w Etapie 3B.
 
 Na początku słuchania swojego rodzica, twoje zrozumienie prawdopodobnie spadnie, ponieważ mowa twojego rodzica będzie różnić się od mowy, do której przywykłeś w innych sferach. Aby szybko zbudować zrozumienie, zalecamy spędzanie 50% aktywnej imersji i 100% pasywnej imersji na słuchaniu swojego rodzica. Powinieneś też wydobywać zdania z tych treści.
 
