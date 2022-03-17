@@ -31,7 +31,7 @@ Naturalna mowa nie jest zbyt zorganizowana. Często zatrzymujemy się w środku 
 Native speakerzy używają pewnych wzorów, aby ich mowa była bardziej naturalna. Użycie tych wzorów, w dobrej częstotliwości sprawi, że będziesz brzmiał bardziej płynnie i że słuchanie cię będzie bardziej przyjemne dla native speakerów.
 
 ### Różne rodzaje akcentów
-W Etapie 1 nauczyłeś się wszystkich podstawowych fonemów twojego języka docelowego. Oprócz tych podstawowych fonemów istnieją też różne akcenty takie jak akcent wyrazowy, akcent śpiewny (pitch akcent w języku angielskim) i tony.
+W Etapie 1 nauczyłeś się wszystkich podstawowych fonemów twojego języka docelowego. Oprócz tych podstawowych fonemów istnieją też różne akcenty takie jak akcent wyrazowy, akcent tonalny i tony.
 
 W języku polskim nasz akcent jest prawie zawsze paroksytoniczny (czyli pada na ostatnią sylabę) i złe akcentowanie nie utrudnia zbytnio komunikacji. Za to w angielskim, akcent wyrazowym jest czasem jedyną rzeczą, która pomaga nam odróżniać słowo od słowa. Słowo" "PER-fect" jest przymiotnikiem, a "per-FECT" już jest czasownikiem.
 
