@@ -9,7 +9,7 @@ Jak dotąd skupiałeś się głównie na budowaniu kompetencji poprzez gramatyk�
 
 Poniżej wymieniliśmy kilka często spotykanych elementów języka, na które powinieneś zacząć zwracać uwagę. Nasz szczegółowy przewodnik zawiera pełną listę tych elementów, więc zalecamy przeczytanie [kompletnego artykułu][competence-article], gdy będziesz gotów.
 
-Nie oczekuj, że uda ci się opanować wszystko opanować w Etapie 3. Celem tego etapu jest po prostu nauczenie się zauważania tych elementów podczas immersji. Zauważenie jest pierwszym krokiem do nabycia i do poprawienia kompetencji językowej.
+Nie oczekuj, że uda ci się opanować wszystko w Etapie 3. Celem tego etapu jest po prostu nauczenie się zauważania tych elementów podczas immersji. Zauważenie jest pierwszym krokiem do nabycia i do poprawienia kompetencji językowej.
 
 ### Wyrażenia Native Speakerów
 Jednym z najczęściej popełnianych błędów w nauce drugiego języka, jest formułowanie zdań w ten sam sposób, w jaki robimy to w naszym języku ojczystym.
