@@ -37,7 +37,7 @@ Możesz otrzymać tę pomoc podczas konwersacji, ale lepszym sposobem utrzymania
 ### Celowe ćwiczenie
 
 #### Konwersacja
-W kwestii produkcji języka prawdziwa rozmowa nie ma sobie równych. Nigdy nie poczujesz się komfortowe, mówiąc w nowym języku bez ćwiczenia z prawdziwymi ludźmi.
+W kwestii produkcji języka prawdziwa rozmowa nie ma sobie równych. Nigdy nie poczujesz się komfortowo, mówiąc w nowym języku bez ćwiczenia z prawdziwymi ludźmi.
 
 Dzięki appkom jak [HelloTalk][hello-talk], [Tandem][tandem], i [Discord][discord] bez problemu znajdziesz natiwów z którym możesz pisać.
 
