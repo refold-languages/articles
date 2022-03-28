@@ -34,7 +34,7 @@ Trudność immersji swobodnej polega na tym, że będziesz rozumieć o wiele mni
 #### Zachowaj równowagę
 Niektórzy wolą immersję intensywną a inni wolą swobodną. Oba te sposoby są jednak ważnymi elementami procesu nabycia języka. Rób więcej tej immersji, która bardziej ci pasuje, ale staraj się nie zaniedbywać ani jednej ani drugiej.
 
-Intensywna immersja zazwyczaj jest bardziej umysłowo wyczerpująca niż swobodna immersja. Dlatego też zalecamy zaczynanie od intensywnej imersji, i dopiero po jakimś czasie przechodzenie na swobodną.
+Intensywna immersja zazwyczaj jest bardziej umysłowo wyczerpująca niż swobodna immersja. Dlatego też zalecamy zaczynanie od intensywnej immersji, i dopiero po jakimś czasie przechodzenie na swobodną.
 
 ### Pasywne Słuchanie
 Większość ludzi nie jest w stanie spędzić całego dnia aktywnie oglądając telewizję lub czytając. Mamy za to chwile, w których możemy słuchać naszego języka docelowego.
@@ -50,7 +50,7 @@ Jednym ze sposobów zwiększania zainteresowania podczas pasywnego słuchania, j
 ### Aktywna Nauka
 W Refold uważamy, że immersja jest niezwykle ważna, ale zalecamy również korzystanie z innych metod. Jedną z tych metod jest aktywna nauka, która polega na uczeniu się o języku docelowym, w celu zmaksymalizowania zrozumienie podczas immersji.
 
-Nabywania języka dzieje się, wtedy kiedy podczas immersji rozumiesz znaczenie zdań i wyrażeń. Aktywna nauka dostarcza twojemu mózgowi dodatkowe informacje, które mogą potem zostać wykorzystane do odkrywania znaczeń tych zdań.
+Nabywanie języka dzieje się, wtedy kiedy podczas immersji rozumiesz znaczenie zdań i wyrażeń. Aktywna nauka dostarcza twojemu mózgowi dodatkowe informacje, które mogą potem zostać wykorzystane do odkrywania znaczeń tych zdań.
 
 Możemy uczyć się o czterech różnych częściach języka:
 1. Fonetyka
