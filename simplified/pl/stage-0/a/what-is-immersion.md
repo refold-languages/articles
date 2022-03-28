@@ -9,7 +9,7 @@ Większość nauczycieli języków zaleca metodę zapamiętywania słów i zasad
 
 Budowanie umiejętności jest właściwym podejściem, jeśli musisz szybko nauczyć się mówić. Jeżeli w najbliższym czasie masz w planach wycieczkę zagranice i chcesz po prostu umieć się komunikować, to zalecamy korzystanie z kursów Bennyego Lewisa. Benny Lewis jest mistrzem uczenia się metodą budowania umiejętności.
 
-Metodą budowania umiejętności nie można jednak osiągnąć płynności w języku. Kiedy mówimy płynnie, nie mamy czasu na odmienianie czasowników i konstruowanie zdań. Właściwe słowa muszą natychmiastowe i automatycznie pojawiać się na nam ustach.
+Metodą budowania umiejętności nie można jednak osiągnąć płynności w języku. Kiedy mówimy płynnie, nie mamy czasu na odmienianie czasowników i konstruowanie zdań. Właściwe słowa muszą natychmiastowe i automatycznie pojawiać się w naszych ustach.
 
 Płynność wymaga instynktu językowego. W języku polskim masz już ten instynkt. Większość z nas nie zna zasad naszego języka ojczystego. Po prostu mówimy, a słowa same się pojawiają. Instynkt ten jest wynikiem „nabycia” języka. Nabywając język zyskujemy umiejętność odtwarzania go automatycznie.
 
