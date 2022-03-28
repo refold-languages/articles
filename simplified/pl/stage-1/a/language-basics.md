@@ -26,7 +26,7 @@ Zdolność słyszenia tych dźwięków przyjdzie dopiero po setkach godzin ćwic
 
 Zacznij od wyszukania w internecie filmików lub blogów, które wyjaśniają jak działają dźwięki twojego języka docelowego i pokażą ci audytywne przykłady.
 
-Nie ćwicz wymowy, dopóki nie osłyszysz się dokładnie z fonetyką języka. Jeśli zaczniesz ćwiczyć wymowę nie słysząc lub nie rozumiejąc prawidłowego brzmienia języka, możliwe jest, że niechcący wyrobisz sobie zły akcent, który potem trudno będzie naprawić.
+Nie ćwicz wymowy, dopóki nie osłuchasz się dokładnie z fonetyką języka. Jeśli zaczniesz ćwiczyć wymowę nie słysząc lub nie rozumiejąc prawidłowego brzmienia języka, możliwe jest, że niechcący wyrobisz sobie zły akcent, który potem trudno będzie naprawić.
 
 ### System pisania
 
@@ -36,7 +36,7 @@ Chiński i Japoński mają znaki, które reprezentują znaczenie, a nie fonetyk�
 
 W każdym języku nauka systemu pisania wygląda inaczej. Dołącz do [społeczności Refold][join-link] i dowiedz się więcej o tym jak najlepiej nauczyć się twojego języka.
 
-Nie staraj się perfekcyjnie opanować system pisania poprzez naukę. Po prostu naucz się podstaw. Czytanie jest ważną częścią metody Refold, więc będziesz miał mnóstwo czasu na opanowanie systemu pisania w następnych etapach.
+Nie staraj się perfekcyjnie opanować systemu pisania poprzez naukę. Po prostu naucz się podstaw. Czytanie jest ważną częścią metody Refold, więc będziesz miał mnóstwo czasu na opanowanie systemu pisania w następnych etapach.
 
 ### Słownictwo
 
