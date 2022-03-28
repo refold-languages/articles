@@ -13,13 +13,13 @@ Istnieje wiele różnych pomocnych narzędzi i technik zapamiętywania. Naszym z
 
 SWP jest programem do fiszek, który sprawdza jak dobrze znasz każdą fiszkę i inteligentnie pokazuje ci fiszki, które jego zdaniem niedługo zapomnisz. Oznacza to, że możesz przechowywać w głowie ogromną ilość informacji, minimalizując przy tym niepotrzebne powtórki.
 
-[Anki][anki] jest najlepszym po dziś dzień programem SWP. Ma wiele funkcji i dodatków, które pomagają w nauce języków. Możesz pobrać go na komputer za darmo lub na komórkę za 100zł.
+[Anki][anki] jest najlepszym po dziś dzień programem SWP. Ma wiele funkcji i dodatków, które pomagają w nauce języków. Możesz pobrać go na komputer i Androida za darmo lub na komórkę z systemem IOS za 100zł.
 
-Anki jest nieco skomplikowane, więc najlepiej zaplanować trochę czasu na jego instalację i konfigurację. Pełen poradnik do instalacji i prawidłowego użycia Anki znajdziesz[tutaj][anki-guide].
+Anki jest nieco skomplikowane, więc najlepiej zaplanować trochę czasu na jego instalację i konfigurację. Pełen poradnik do instalacji i prawidłowego użycia Anki znajdziesz [tutaj][anki-guide].
 
 ### Strategia nauki
 
-W procesie uczenia się metodą immersji twoim celem jest rozumienie a niemówienie. Oznacza to, że musisz tylko zbudować pasywne słownictwo: zbiór słów, które możesz rozpoznać i zrozumieć.
+W procesie uczenia się metodą immersji twoim celem jest rozumienie a nie mówienie. Oznacza to, że musisz tylko zbudować pasywne słownictwo: zbiór słów, które możesz rozpoznać i zrozumieć.
 
 Nie musisz ćwiczyć przywoływania słów z pamięci. W Etapie 3 twój mózg zacznie naturalnie przekształcać pasywne słownictwo w aktywne słownictwo, dzięki czemu przywoływanie słów przyjdzie ci z łatwością.
 
@@ -29,7 +29,7 @@ Nie musisz ćwiczyć przywoływania słów z pamięci. W Etapie 3 twój mózg za
 
 Aby uzyskać dostęp do tych talii, dołącz do darmowej społeczności [Refold Discord][join-link] dla twojego języka.
 
-Jeśli Refold ma żadnej talii dla twojego języka docelowego, możesz poszukać innych gotowych talii na internecie lub stworzyć własną talię.
+Jeśli Refold nie ma żadnej talii dla twojego języka docelowego, możesz poszukać innych gotowych talii na internecie lub stworzyć własną talię.
 
 #### Wybieranie gotowej talii
 
