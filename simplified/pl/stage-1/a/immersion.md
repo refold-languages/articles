@@ -19,7 +19,7 @@ Nie zależnie od tego ile słów i struktur gramatycznych się nauczysz, przy pi
 Zalecamy nie uciekać od dyskomfortu związanego z brakiem zrozumienia i po prostu go zaakceptować. Im lepiej tolerujesz dyskomfort, tym lepiej bawisz się podczas immersji i tym szybciej przyswajasz język.
 
 ### Zmniejszanie niejasności
-Nauczenie się tolerowania niejasności i braków zrozumienia czasami bywa trudne. Oto kilka porad i wskazówek, dzięki którym twoja imersja stanie się nieco przyjemniejsza.
+Nauczenie się tolerowania niejasności i braków zrozumienia czasami bywa trudne. Oto kilka porad i wskazówek, dzięki którym twoja immersja stanie się nieco przyjemniejsza.
 
 #### Zaspoileruj sobie fabułę
 Jednym ze sposobów zmniejszenia niejasności jest przeczytanie streszczenia fabuły serialu lub filmu przed jego obejrzeniem. Możesz też ponownie obejrzeć film lub serial, który wcześniej oglądałeś już po polsku. Obydwa te podejścia pozwalają nadążać za fabułą nawet bez zrozumienia słów.
@@ -49,7 +49,7 @@ Stworzenie specjalnego konta dla języka docelowego na wszystkich portalach spo�
 Aby pomóc ci w znalezieniu dobrych treści w twoim języku docelowym, Refold zebrał listy kanałów i treści dla każdego języka w YouTube, Netflix i innych witrynach rozrywkowych. Wszystkie te listy są dostępne za pośrednictwem naszej [społeczności][join-link].
 
 #### Netflix
-Netflix jest świetnym miejscem dla oglądanie filmów i seriali w twoim języku docelowym. Zawartość Netflixa jest inna w każdym kraju. Z pomocą [VPN][nord-vpn], możesz oglądać Netflix wszystkich krajów na świecie i mieć łatwy dostęp to filmów i seriali w swoim języku docelowym.
+Netflix jest świetnym miejscem do oglądania filmów i seriali w twoim języku docelowym. Zawartość Netflixa jest inna w każdym kraju. Z pomocą [VPN][nord-vpn], możesz oglądać Netflix wszystkich krajów na świecie i mieć łatwy dostęp to filmów i seriali w swoim języku docelowym.
 
 Zalecamy użycie [nieoficjalnej globalnej wyszukiwarki Netflix Online][unogs]. Dzięki niej łatwiej jest znajdywać treści na Netflixie w swoim języku docelowym. Wyszukiwarka ta pokaże ci, do którego kraju musisz ustawić swój VPN, aby obejrzeć wybrane media.
 
