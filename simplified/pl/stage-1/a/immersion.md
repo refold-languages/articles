@@ -5,12 +5,12 @@ sort: 1
 version: "1.0.0"
 ---
 
-Immersja stanowi podstawę nabycia języka. Poprzez immersje masz szanse zobaczyć każde słowo, każdą frazę i każdą strukturę gramatyczną w wielu różnych kontekstach. Dzięki temu zrozumiesz wszystkie niuanse językowe i wyrobisz sobie intuicje w tym języku.
+Immersja stanowi podstawę nabycia języka. Poprzez immersję masz szanse zobaczyć każde słowo, każdą frazę i każdą strukturę gramatyczną w wielu różnych kontekstach. Dzięki temu zrozumiesz wszystkie niuanse językowe i wyrobisz sobie intuicje w tym języku.
 
-Ilość czasu spędzonego na immersji jest najważniejszym czynnikiem w nabywaniu języka. Zacznij immersje już od pierwszego dnia nauki, aby od samego początku uruchomić proces nabywania języka. Nawet kiedy niczego nie rozumiesz, twój mózg ciężko pracuje nad rozszyfrowaniem języka.
+Ilość czasu spędzonego na immersji jest najważniejszym czynnikiem w nabywaniu języka. Zacznij immersję już od pierwszego dnia nauki, aby od samego początku uruchomić proces nabywania języka. Nawet kiedy niczego nie rozumiesz, twój mózg ciężko pracuje nad rozszyfrowaniem języka.
 
 ### Tolerancja niejasności
-Wiele osób niemających doświadczenia w nauce języka, często popełnia błąd czekania na moment, w którym będą gotowi na zaczęcie immersji. Immersja z treściami których nie rozumiesz, bywa niekomfortowa. Wiele osób próbuje uniknąć tego dyskomfortu odkładając immersje na później, i skupiając się jedynie na aktywnej nauce.
+Wiele osób niemających doświadczenia w nauce języka, często popełnia błąd czekania na moment, w którym będą gotowi na zaczęcie immersji. Immersja z treściami których nie rozumiesz, bywa niekomfortowa. Wiele osób próbuje uniknąć tego dyskomfortu, odkładając immersję na później.
 
 **Z takim podejściem nigdy nie nabędziesz swojego języka.**
 
@@ -41,7 +41,7 @@ Staraj się często robić przerwy, aby nieco się zregenerować. Z czasem, twoj
 ### Znajdywanie właściwych treści
 W swojej podróży do językowej płynności spędzisz mnóstwo godzin na immersji w swoim języku docelowym. Dlatego właśnie znalezienie ciekawych i wciągających treści jest takie ważne. Im lepiej bawisz się podczas immersji tym szybciej nabędziesz język.
 
-Aby zmaksymalizować czas spędzony ze swoim językiem docelowym, zacznij korzystać z jak największej ilości swoich mediów w języku docelowym. Tyczy się to seriali, filmów, YouTube i blogów. Odkryj jakie treści są dostępne w twoim języku docelowym i znajdź coś, co jest dla ciebie ciekawe lub wciągające.
+Aby zmaksymalizować czas spędzony ze swoim językiem docelowym, zacznij korzystać z jak największej ilości swoich mediów w tym języku. Tyczy się to seriali, filmów, YouTube i blogów. Odkryj jakie treści są dostępne w twoim języku docelowym i znajdź coś, co jest dla ciebie ciekawe lub wciągające.
 
 #### Stwórz nowe konta
 Stworzenie specjalnego konta dla języka docelowego na wszystkich portalach społecznościowych i usługach transmisji wideo jest świetnym sposobem na otoczenie się językiem. Pozsiadanie oddzielnego konta na język docelowy pozwoli ci otrzymywać rekomendacje algorytmu podpasywane pod to cię interesuje. Zalecamy tworzenie kont dla języka docelowego na YouTube, Netflixie, Tiktoku i Twitterze.
