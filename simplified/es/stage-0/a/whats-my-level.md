@@ -16,7 +16,7 @@ Cada etapa se divide en sub-etapas. Cada sub-etapa tiene diferentes metas, estra
 ### Etapa 1: Comencemos
 En la Etapa 1, aprenderás los conceptos básicos de tu lengua meta (L2) y qué herramientas usar para aprender directamente de la inmersión. Te centrarás en crear hábitos, aprender los sistemas de escritura, la fonética del idioma, aprender gramática básica y vocabulario.
 
-### Etapa 2: Aprende a comprender
+### Etapa 2: Aprende a entender
 En la Etapa 2, vas a aumentar tu nivel de comprensión hasta que puedas entender completamente un género de contenido nativo. La etapa 2 se divide en tres sub-etapas:
 
 #### 2A: Entender contenido simple
@@ -45,7 +45,7 @@ En la Etapa 3B, practicarás la escritura y pronunciación como habilidades sepa
 
 Streamers de Twitch, podcasters, y youtubers son buenas opciones para un pariente de idioma.
 
-#### Empezar a hablar
+#### 3C: Empezar a hablar
 En la Etapa 3C, combinarás tus habilidades de escritura y pronunciación y empezarás a hablar. Al final de la Etapa 3, habrás logrado una fluidez básica en tu L2.
 
 La fluidez básica significa que serás completamente funcional en tu L2. Podrás hablar de sobre la vida cotidiana y de cualquier otro campo que hayas elegido dominar. La mejor parte: no estarás traduciendo desde tu L1. Tus pensamientos irán directamente a tu L2 y podrás hablar de forma natural y segura.
