@@ -1,6 +1,6 @@
 {
   "name": "refold-articles",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Articles repository for refold.la",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/refold-languages/articles#readme",
   "dependencies": {
-    "path-to-regexp": "^6.2.0"
+    "path-to-regexp": "^6.2.0",
+    "release": "^6.3.1"
   }
 }
