@@ -1,6 +1,6 @@
 ---
 title: "Kopalnia Zdań"
-roadmapTitle: "Koplania zdań"
+roadmapTitle: "Kopalnia Zdań"
 sort: 2
 version: "1.0.0"
 ---
