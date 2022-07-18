@@ -24,7 +24,7 @@ Concentre-se em aprender as coisas para as quais seu cérebro já está pronto. 
 
 No ensino tradicional, fala-se de esforçar-se muito para aprender coisas difíceis. Na imersão, a melhor estratégia é concentrar-se apenas nas coisas fáceis. À medida que sua compreensão cresce, as coisas que antes eram difíceis tornam-se fáceis.
 
-### O que Assistir
+### O quê assistir
 
 #### Legendas
 
@@ -89,7 +89,7 @@ O YouTube é um ótimo recurso para encontrar programas de TV e outros conteúdo
 
 #### Netflix
 
-Se você estiver usando Netflix, qualquer conteúdo criado originalmente na sua LA terá legendas correspondentes.
+Se você estiver usando Netflix, qualquer conteúdo criado originalmente na sua TL terá legendas correspondentes.
 
 Se você está assistindo dublado, procure legendas marcadas como "CC" (Closed Captions, legenda oculta, originalmente destinada a deficientes auditivos). Se a legenda não está marcada como CC, provavelmente não corresponderá ao áudio.
 
