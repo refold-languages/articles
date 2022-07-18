@@ -25,7 +25,7 @@ Palavras isoladas são abstratas. É difícil lembrar coisas abstratas. Acrescen
 
 **3. Palavras não são usadas sozinhas**
 
-Quando a palavra está por si só, sem qualquer contexto, você não sabe como ela é usada quando junta a outras palavras. Uma frase de exemplo te mostra como a palavra se encaixa na língua de uma maneira mais ampla.
+Quando a palavra está por si só, sem qualquer contexto, você não sabe como ela é usada quando combinada com outras palavras. Uma frase de exemplo te mostra como a palavra se encaixa na língua de uma maneira mais ampla.
 
 ### Escolhendo Frases
 
