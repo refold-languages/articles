@@ -19,19 +19,19 @@ Os níveis de compreensão abaixo descrevem as fases entre zero compreensão e a
 #### Nível 0: Nada
 * Você não entende nada do idioma.
 
-#### Nível 1: Algo
+#### Nível 1: Alguma coisa
 * Você consegue reconhecer algumas palavras individualmente.
 
 #### Nível 2: Fragmentos
 * Você consegue reconhecer pelo menos uma palavra em quase toda frase.
 
-#### Nível 3: Essência
+#### Nível 3: O Essencial
 * Você reconhece cerca de metade das palavras utilizadas.
 * Você consegue entender o significado de algumas frases completas.
 
 #### Nível 4: Enredo
 * Você entende o significado da maioria das frases.
-* Você consegue acompanhar a história mas perde algumas ideias e partes da trama.
+* Você consegue acompanhar a história, mas perde algumas ideias e partes da trama.
 
 #### Nível 5: Confortável
 * Entende quase todas frase, mas perde uma palavra ou frase ocasionalmente.
