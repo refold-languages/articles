@@ -58,9 +58,9 @@ Infelizmente, muitas vezes não há resposta para essa pergunta. A verdade é qu
 
 É importante ressaltar que regras gramaticais não são realmente regras. São apenas guias de como a língua é geralmente usada.
 
-O estudo de gramática não é útil para aprender a falar fluentemente, pois é impossível memorizar todas as regras e exceções. Mesmo que conseguisse, não teria tempo suficiente para usar esse conhecimento enquanto fala.
+O estudo de gramática não é útil para aprender a falar fluentemente, pois é impossível memorizar todas as regras e exceções. Mesmo que você conseguisse, você não teria tempo suficiente para usar esse conhecimento enquanto fala.
 
-Felizmente, nosso cérebro é ótimo em aprender gramática intuitivamente. Através da imersão, você desenvolverá uma compreensão intuitiva do idioma que te permitirá falar corretamente sem precisar pensar em gramática.
+Felizmente, nosso cérebro é muito bom em aprender gramática intuitivamente. Através da imersão, você desenvolverá uma compreensão intuitiva do idioma que te permitirá falar corretamente sem precisar pensar em gramática.
 
 ![](../../../images/grammar-meme.jpg)
 
