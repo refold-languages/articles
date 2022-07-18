@@ -1,5 +1,5 @@
 ---
-title: "Transição Monolíngue"
+title: "Transição Monolingue"
 roadmapTitle: "Transição Monolíngue"
 sort: 3
 version: "1.0.0"
