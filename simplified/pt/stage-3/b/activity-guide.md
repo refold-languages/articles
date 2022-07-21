@@ -14,7 +14,7 @@ Ao pensar em como organizar o seu processo de aprendizagem, é útil pensar sobr
 
 Um ciclo é uma série de passos que se repetem. Cada vez que se concluem todos os passos, uma repetição se completa.
 
-Um _ciclo de feedback_ é quando a "saída" (escrita e fala) de uma repetição se torna a "entrada" da próxima.
+Um _ciclo de feedback_ é quando o resultado de uma repetição se torna o início da próxima.
 
 Cada uma das atividades descritas na Fase 2 é um passo de um ciclo de feedback que ajuda a melhorar a sua compreensão:
 
