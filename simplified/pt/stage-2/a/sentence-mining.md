@@ -9,7 +9,7 @@ Extração de frases é o processo de encontrar novas palavras na sua imersão e
 
 Você pode começar a extrair frases a qualquer momento, mas será difícil se já não tiver uma base sólida de vocabulário e gramática. Recomendamos aprender pelo menos 1000 palavras antes de começar.
 
-### Extraia Frases, Não Palavras
+### Extraia frases, não palavras
 
 Recomendamos muito colocar uma frase de exemplo em cada uma das suas cartas. Cartas com apenas a palavra e a sua definição causam múltiplos problemas no processo:
 
@@ -27,7 +27,7 @@ Palavras isoladas são abstratas. É difícil lembrar coisas abstratas. Acrescen
 
 Quando a palavra está por si só, sem qualquer contexto, você não sabe como ela é usada quando combinada com outras palavras. Uma frase de exemplo te mostra como a palavra se encaixa na língua de uma maneira mais ampla.
 
-### Escolhendo Frases
+### Escolhendo frases
 
 Nem toda frase é boa para aprender. Há dois critérios principais que você deve considerar ao decidir se uma frase é um bom exemplo para uma palavra. As frases que cumprem ambos estes critérios são chamadas frases 1T.
 
@@ -39,7 +39,7 @@ Um bom exemplo de frase deve ter apenas uma palavra desconhecida ou estrutura gr
 
 Quando você procurar a definição da palavra desconhecida ou a explicação da estrutura gramatical desconhecida, o significado da frase como um todo deve ficar claro. Se ainda não faz sentido depois de uma pesquisa, então não é uma boa frase.
 
-### Escolhendo Palavras
+### Escolhendo palavras
 
 Nem toda palavra vale a pena aprender. Para decidir quais palavras aprender, use os seguintes critérios:
 
@@ -50,7 +50,7 @@ Nem toda palavra vale a pena aprender. Para decidir quais palavras aprender, use
 
 Se a resposta for sim para qualquer uma dessas perguntas, então vale a pena aprender essa palavra.
 
-### Quando Extrair
+### Quando extrair
 
 A imersão intensiva é o melhor momento para extrair frases. Já que você já estará pesquisando palavras e tentando entender frases, é uma oportunidade para encontrar frases 1T durante o processo.
 
@@ -64,7 +64,7 @@ A extração síncrona é o método mais popular na comunidade, por isso recomen
 
 Junte-se à [comunidade Refold][join-link] para obter recomendações sobre qual ferramenta tem o melhor suporte para a sua LA.
 
-### Como Criar Cartas
+### Como criar cartas
 
 Há vários formatos de cartas que você pode usar. Nós recomendamos começar com cartas que contenham apenas texto, pois elas são mais fáceis de criar. Há dois tipos de cartas de texto: de vocabulário e de frase. Existem prós e contras de cada um, você pode aprender mais sobre neste [vídeo][vocab-vs-sentence-video]. (Conteúdo em inglês)
 
@@ -77,7 +77,7 @@ Na [Fase 1][vocabulary-cards], recomendamos cartas de vocabulário porque você 
 
 Quando você já estiver confortável com o Anki, você pode criar cartões com imagens e áudio. Clique [aqui][advanced-mining] para aprender mais sobre formatos de avançados de carta.
 
-#### Exemplo do Processo de Mineração
+#### Exemplo do processo de extração
 
 -   Passo 1: Ache a frase 1T na sua imersão.
 -   Passo 2: Coloque a frase na frente de uma carta  ![](../../../images/sentence-card-front.png)
@@ -88,7 +88,7 @@ Quando você já estiver confortável com o Anki, você pode criar cartões com 
 
 Nós não recomendamos adicionar na carta uma tradução completa da frase. Línguas diferentes têm diferentes maneiras de expressar ideias, por isso traduções são quase sempre imprecisas. Se a frase é 1T, você deverá conseguir entendê-la sem nenhuma tradução.
 
-### Quantas Cartas?
+### Quantas cartas?
 
 Nós recomendamos adicionar 10 cartas novas por dia. Você pode fazer mais de 10 se quiser, mas lembre-se de que o Anki acumula revisões que podem acabar te sobrecarregando.
 
