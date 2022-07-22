@@ -12,9 +12,9 @@ Como descrito na [Fase 0: Atividades Explicadas][0a-activities-explained], o est
 Há quatro partes no estudo ativo:
 
 1. Fonética
-1. Sistema de Escrita
+1. Sistema de escrita
 1. Vocabulário
-1. Gramática Básica
+1. Gramática básica
 
 ### Fonética
 
@@ -28,7 +28,7 @@ Para aprender a fonética da sua LA, pesquise vídeos no YouTube ou blogs que ex
 
 Não pratique sua pronúncia até que você possa ouvir com precisão a fonética da língua. Se você fizer isso, corre o risco de adquirir um sotaque ruim que será difícil de consertar posteriormente.
 
-### Sistema de Escrita
+### Sistema de escrita
 
 Para aprender palavras com precisão, você precisa lê-las na língua em que foram escritas. Se a sua LA usa um sistema de escrita fonético, então aprenda os caracteres e associe os símbolos aos sons que você aprendeu no seu estudo fonético.
 
@@ -50,7 +50,7 @@ No próximo artigo, vamos explicar o que é um SRS, qual usar e como começar a 
 
 ### Gramática
 
-#### Não Tem "Porquê"
+#### Não tem "porquê"
 
 Quando os novos aprendizes se deparam com um tópico de gramática, frequentemente se perguntam: "Por que a língua funciona assim?". Eles estão em busca de uma regra concreta que explique a língua.
 
@@ -64,7 +64,7 @@ Felizmente, nosso cérebro é muito bom em aprender gramática intuitivamente. A
 
 ![](../../../images/grammar-meme.jpg)
 
-#### Foco de Compreensão
+#### Foco de compreensão
 
 Embora o estudo da gramática não seja útil para falar, ele é útil para a compreensão. Enquanto o estudo de vocabulário ajuda a entender palavras individualmente, o estudo de gramática ajuda a entender frases completas.
 
