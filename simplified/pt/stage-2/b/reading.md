@@ -14,7 +14,7 @@ Até agora, você tem lido legendas. Nós recomendamos começar com legendas por
 
 Quando você estiver confortável lendo legendas, você pode passar para leituras mais difíceis.
 
-### Texto Puro
+### Texto puro
 Texto puro significa que não há informação visual ou auditiva. Livros, blogs e jornais são exemplos de conteúdo de puro texto.
 
 Com legendas, a parte visual do programa de TV te ajuda a seguir a história, mesmo que você não entenda todas as palavras. Ler texto puro é difícil porque não existe contexto visual. Todas as informações sobre a história vêm das palavras na página.
@@ -30,12 +30,12 @@ Quadrinhos não têm áudio para te ajudar a analisar as frases, mas eles têm c
 
 Muitos quadrinhos estão disponíveis on-line; eles são chamados de "webcomics" e são facilmente encontrados no Google. Junte-se à [comunidade do Discord][join-link] para fazer sugestões de quadrinhos na sua língua-alvo (LA).
 
-### Graded Readers
+### Graded readers
 Se você estiver pronto consumir texto puro, recomendamos começar com graded readers. Graded readers (em inglês, "leituras escalonadas") são livros simplificados para crianças ou aprendizes. A linguagem simplificada ajuda a superar a curva de aprendizagem do texto puro.
 
 Visto que tenha lido alguns graded readers, você estará muito mais preparado para ler livros para nativos.
 
-### Livros para Crianças
+### Livros para crianças
 Se não houver graded readers disponíveis para sua LA ou se você não estiver interessado nos que estão disponíveis, pode ler livros para crianças.
 
 Não se engane. Apenas por um livro ser para crianças, não significa que ele será fácil para um aprendiz de línguas. Livros para crianças costumam usar palavras divertidas e interessantes que provavelmente não terá aprendido lendo legendas.
@@ -45,7 +45,7 @@ Não recomendamos a leitura de livros destinos a crianças com menos de 7 anos d
 ### Blogs
 Outra opção de texto puro são blogs e artigos na internet. A linguagem usada em blogs não é simplificada, mas o conteúdo geralmente se concentra num único tópico. Se você já sabe sobre esse tema, você pode inferir o significado da maioria das palavras desconhecidas.
 
-### Como Ler
+### Como ler
 Assim como com as legendas, você pode ler texto puro com imersão intensiva ou livre. Ao começar a ler livros, recomendamos dar preferência à imersão livre e só procurar palavras o bastante para te manter envolvido na história. Buscar palavras demais interrompe o fluxo de leitura e impede o seu cérebro de absorver o idioma.
 
 Há muitas estratégias diferentes para ler. Se quiser saber mais, você pode encontrar explicações sobre estas estratégias neste [artigo][reading-novels].
