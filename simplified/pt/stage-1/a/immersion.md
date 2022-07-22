@@ -44,7 +44,7 @@ Ao longo de toda a sua jornada, você passará milhares de horas com a sua LA, e
 Para maximizar o seu tempo de imersão, converta ao máximo o tempo que você passaria consumindo conteúdo na sua LM para a sua LA. Isso inclui programas de TV, filmes, vídeos no YouTube e blogs. Você precisará explorar o conteúdo disponível na sua LA e encontrar o que é do seu maior interesse e gosto.
 
 #### Crie contas novas
-Uma ótima maneira de explorar conteúdo na sua LA é, criar uma conta dedicada a ela em todas as suas redes sociais e serviços de streaming. Ao ter uma conta separada apenas para conteúdo na sua LA, você pode aproveitar as recomendações do algoritmo para encontrar conteúdo novo e interessante. Nós recomendamos criar contas LA no YouTube, Netflix, Tiktok e Twitter.
+Uma ótima maneira de explorar conteúdo na sua LA é criar uma conta dedicada a ela em todas as suas redes sociais e serviços de streaming. Ao ter uma conta separada apenas para conteúdo na sua LA, você pode aproveitar as recomendações do algoritmo para encontrar conteúdo novo e interessante. Nós recomendamos criar contas LA no YouTube, Netflix, Tiktok e Twitter.
 
 Para ajudar a fomentar as suas recomendações de conteúdo LA, Refold reuniu listas de canais e conteúdo para cada língua no YouTube, Netflix, e outros sites. Você pode acessá-las na nossa [comunidade][join-link].
 
