@@ -9,14 +9,14 @@ Até agora, você tem usado um *dicionário bilingue*. Procurando uma palavra na
 
 Assim que tiver uma compreensão [nível 4][level-4] de legendas ou quadrinhos, chega o momento de começar a usar um dicionário* monolíngue*. Um dicionário monolíngue é o mesmo tipo de dicionário que um nativo utilizaria. Você procura uma palavra na sua LA e a definição está na sua LA.
 
-### Por que Fazer a Transição?
+### Por que fazer a transição?
 Dicionários bilíngues são ótimos para principiantes porquê permitem usar a sua LM como apoio para aprender rapidamente palavras na sua LA. No entanto, dicionários bilíngues têm um lado negativo: a imprecisão.
 
 Cada língua tem nuances únicas que simplesmente não podem ser traduzidas. Quando um dicionário bilíngue traduz uma palavra, parte do significado é perdido no processo.
 
 Se você depender destas traduções inexatas, você nunca compreenderá o verdadeiro significado das palavras na sua LA. Com imersão o suficiente, esses mal-entendidos se corrigiriam naturalmente, mas esse processo é lento. Com um dicionário monolíngue, você consegue aprender o verdadeiro significado das palavras de primeira e acelerar o processo de aquisição.
 
-### Como Fazer a Transição?
+### Como fazer a transição?
 Provavelmente, seu processo atual de consulta no dicionário é algo assim:
 1. Deparar-se com uma palavra desconhecida.
 1. Procurá-la num dicionário bilíngue.
