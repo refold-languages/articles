@@ -9,18 +9,18 @@ O objetivo da [Etapa 2B][level-4] é chegar ao nível 4 de compreensão com um g
 
 Membros da nossa comunidade relatam que, com [nível 4][level-4] de compreensão, a imersão torna-se autossustentável, pois, começam a aguardar ansiosamente para passar tempo com a sua LA.
 
-### Escolhendo Conteúdo Intermediário
+### Escolhendo conteúdo intermediário
 Conteúdo infantil é ótimo para principiantes, mas não representa como a língua é realmente falada por adultos. Agora que você construiu uma base sólida de compreensão, será mais fácil assistir conteúdos reais para nativos.
 
 Para maximizar a sua compreensão, tente encontrar conteúdos que sejam relativamente fáceis de compreender.
 
-#### Histórias Simples
+#### Histórias simples
 Escolha conteúdo com uma história simples. Uma comédia romântica vai ser mais fácil de acompanhar do que um programa de ficção científica sobre viagem no tempo.
 
-#### Contexto Visual
+#### Contexto visual
 Escolha conteúdo que *mostre* a história em vez de apenas contar. Uma novela cheia emoções exageradas será mais fácil de acompanhar do que alguém fazendo um monólogo.
 
-#### Linguagem Simples
+#### Linguagem simples
 Escolha conteúdo com uma linguagem mais simples que seja mais relevante para sua vida cotidiana. Alguém contando uma história pessoal será mais fácil de acompanhar do que um debate político.
 
 ### Assuntos
@@ -32,22 +32,22 @@ Nós recomendamos como primeiro assunto sitcoms slice-of-life (SoL), midia que f
 
 No entanto, há de se balancear com os seus interesses e divertimento.
 
-### Maximizando o Envolvimento
+### Maximizando o envolvimento
 Ao escolher um conteúdo, priorize o divertimento acima de tudo. Encontre conteúdo que corresponda aos seus interesses. Quanto mais prazerosa for sua imersão, mais aprenderá.
 
 Se você não gosta de conteúdo slice-of-life, escolha um assunto diferente que realmente goste. Se você se cansar de um assunto, mude para outro. É mais importante é manter o interesse na língua do que otimizar a eficiência.
 
-### Abrace a Ambiguidade
+### Abrace a ambiguidade
 O melhor conselho que podemos para dar mais prazer à imersão é deixar de se preocupar em entender tudo. Muitas pessoas martirizam-se com coisas que não entendem em vez de celebrar as coisas que entendem.
 
 Evite a frustração. A compreensão virá com o tempo.
 
-### Quanto Imergir
+### Quanto imergir
 Quanto mais imersão você fizer, mais rápido você adquirirá sua LA. Se a sua LA for semelhante à sua LM, recomendamos 2 a 3 horas por dia de imersão ativa (intensiva ou livre). Para idiomas mais difíceis, 5 horas ou mais por dia é o ideal para progredir rápido.
 
 Isso pode parecer muito tempo, mas lembre-se, imersão não precisa ser algo trabalhoso e pesado. Se você converter o seu tempo de lazer para sua LA, você pode relaxar com o seu programa de TV da LA favorito e aprender o idioma ao mesmo tempo.
 
-### Subindo de Nível
+### Subindo de nível
 Você estará pronto para avançar para a Etapa 2C quando você tiver o [nível 4][level-4] compreensão em conteúdo nativo que nunca viu antes. Pode usar legendas e pausar a cada linha, mas sem pesquisar nada.
 
 Há um espectro enorme de dificuldades quando se trata de conteúdo nativo. Para este teste, escolha conteúdo destinado a adultos que esteja dentro de um assunto com o qual sinta-se confortável.
