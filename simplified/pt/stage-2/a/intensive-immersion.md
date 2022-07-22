@@ -14,7 +14,7 @@ Existem quatro motivos principais para recomendarmos começar com legendas:
 1. Ouvir as legendas pronunciadas em voz alta te ajuda analisar a gramática das frases.
 1. Legendas são o texto escrito de uma conversa. Conversas geralmente têm uma linguagem mais fácil do que livros e blogs.
 
-### Como Fazer Imersão Intensiva
+### Como fazer imersão intensiva
 
 Durante a imersão intensiva, seu objetivo é entender o máximo possível. Para isso, pare após cada frase da legenda e tente entendê-la. Caso encontre palavras desconhecidas, busque-as no dicionário.
 
@@ -36,7 +36,7 @@ A maioria das línguas comuns e mais faladas têm muito conteúdo com legendas. 
 
 No entanto, idiomas menos falados podem não ter legendas disponíveis. Se você não conseguir encontrar nenhum conteúdo na sua LA com legendas, recomendamos fazer imersão intensiva com quadrinhos. Explicaremos mais sobre a leitura de quadrinhos na Etapa 2B.
 
-#### Conteúdo para Crianças
+#### Conteúdo para crianças
 
 Conteúdo nativo destinado a adultos (maiores 16 anos) é difícil para iniciantes. O mais fácil é começar com conteúdo para crianças em vez disso.
 
@@ -44,7 +44,7 @@ Nós recomendamos começar com programas de TV para crianças com idades entre 7
 
 Não recomendamos programas para bebês. Há muito pouco diálogo nestes programas e são entediantes para adultos.
 
-#### Revendo Conteúdo
+#### Revendo conteúdo
 
 Aumentar a compreensão é a melhor maneira de acelerar a aquisição. Quanto mais compreensível algo for, mais envolvente será e mais o seu cérebro conseguirá absorver.
 
@@ -52,15 +52,15 @@ Uma excelente estratégia para aumentar a compreensão e o envolvimento é assis
 
 Para programas que você nunca assistiu antes, pode ler resumos antes ou depois de assistir. Isso te ajudará a compreender a história, te dá dicas sobre as palavras e ajuda a manter o envolvimento.
 
-### Evitando o Esgotamento
+### Evitando o esgotamento
 
 Imersão intensiva pode ser mentalmente cansativa. Ela requer muita energia e atenção. Quando estiver cansado de fazer imersão intensiva, faça imersão livre.
 
 Se consumir um conteúdo tornar-se algo pesado, mude para outro. Não vale a pena se forçar a imergir com esse conteúdo. O prazer é a parte mais importante do processo.
 
-### Ferramentas de Imersão
+### Ferramentas de imersão
 
-#### Dicionários Pop-Up
+#### Dicionários pop-up
 
 Ao assistir ou ler algo, você deve buscar palavras num dicionário. Usar um dicionário digital é muito mais rápido do que usar um dicionário físico, mas ainda requer que você mude de janelas para procurar.
 
@@ -81,7 +81,7 @@ Se você preferir assistir conteúdo localmente no seu computador, recomendamos 
 
 A instalação é um pouco complicada, por isso criamos um [guia em vídeo][mpv-guide] para ajudar a configurá-lo.
 
-### Procurando Conteúdo Legendado
+### Procurando conteúdo legendado
 
 #### YouTube
 
@@ -93,7 +93,7 @@ Se você estiver usando Netflix, qualquer conteúdo criado originalmente na sua 
 
 Se você está assistindo dublado, procure legendas marcadas como "CC" (Closed Captions, legenda oculta, originalmente destinada a deficientes auditivos). Se a legenda não está marcada como CC, provavelmente não corresponderá ao áudio.
 
-#### Serviços de Streaming LA
+#### Serviços de streaming na LA
 
 Lembre-se de experimentar novos sites de streaming. Cada país tem diferentes serviços de streaming. Estes serviços provavelmente terão muito conteúdo disponível com legendas correspondentes.
 
