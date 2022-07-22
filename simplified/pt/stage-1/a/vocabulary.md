@@ -17,13 +17,13 @@ A melhor ferramenta SRS disponível atualmente é o [Anki][anki]. O Anki tem mui
 
 O Anki é um pouco complicado, então é melhor reservar tempo para instalá-lo e configurá-lo. Você pode encontrar um guia completo sobre como começar com o Anki [aqui][anki-guide].
 
-### Estratégia de Estudo
+### Estratégia de estudo
 
 No aprendizado por imersão, seu objetivo é entender; não falar. Isso significa que você só precisa desenvolver o seu vocabulário passivo: o conjunto de palavras que você consegue reconhecer e entender.
 
 Você não precisa ficar tentando relembrar palavras da sua memória. Quando você chegar na Fase 3, seu cérebro naturalmente começará a converter seu vocabulário passivo em vocabulário ativo e você será capaz de lembrar palavras sem nenhum esforço a mais.
 
-### Escolhendo uma Lista de Palavras
+### Escolhendo uma lista de palavras
 
 Os "decks" do Anki são coleções prontas de flashcards que você pode baixar e estudar. A comunidade Refold trabalha duro construindo decks perfeitos para iniciantes.
 
@@ -31,13 +31,13 @@ Para acessar estes decks, junte-se à [comunidade no Discord][join-link] do seu 
 
 Caso não haja nenhum deck disponível para sua língua-alvo (LA), você pode usar um deck pronto de outra fonte, ou criar seu próprio deck.
 
-#### Escolhendo um Deck Pronto
+#### Escolhendo um deck pronto
 
 Um bom deck pronto deve ter em cada carta uma palavra, uma frase de exemplo, uma definição e preferencialmente, áudio da palavra/frase.
 
 A comunidade Refold compilou em listas os melhores decks existentes para cada idioma. Junte-se à [comunidade][join-link] para encontrar estas recomendações.
 
-#### Criando seu Próprio Deck
+#### Criando seu próprio deck
 
 Se você não encontrar um bom deck pronto que se adeque aos critérios acima, você pode criar o seu próprio deck e compartilhá-lo com a comunidade.
 
@@ -57,7 +57,7 @@ Para iniciantes, pode ser útil colocar uma tradução da frase de exemplo no ve
 
 Lembre-se que você está buscando apenas reconhecer e compreender. Certifique-se de que a frente do seu cartão não tenha sua LM nele; somente a sua LA.
 
-### Boas Práticas de SRS
+### Boas práticas de SRS
 
 Cada nova palavra que você aprende vai voltar na forma de revisões posteriormente. Um dos erros mais comuns que iniciantes cometem é aprender cartas demais num curto período. Muitas cartas novas levam a muitas revisões, o que em muitas vezes resulta em esgotamento.
 
