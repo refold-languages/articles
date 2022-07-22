@@ -16,7 +16,7 @@ A fluência requer um instinto; o mesmo instinto que você tem na sua língua ma
 A imersão é a ferramenta que usamos para adquirir a língua. Imersão significa simplesmente expor-se à língua vendo televisão, lendo livros e navegando na internet.
 
 
-### Como Funciona a Aquisição?
+### Como funciona a aquisição?
 > *"Todos nós adquirimos a língua da mesma forma: entendendo mensagens.* - Stephen Krashen
 
 Aprender a definição de uma palavra é apenas o primeiro passo no processo de adquirí-la. Para adquirir o instinto de como uma palavra é usada, é preciso vê-la e compreendê-la em centenas de situações diferentes centenas de vezes.
@@ -24,7 +24,7 @@ Aprender a definição de uma palavra é apenas o primeiro passo no processo de 
 Através da imersão, você se expõe a essas situações. Cada vez que você vê e compreende uma palavra, você treina o seu instinto. Eventualmente, o seu instinto torna-se tão forte que você saberá intuitivamente como usar a palavra.
 
 
-### Tempo e Esforço
+### Tempo e esforço
 A aquisição leva muito tempo, mas o processo não precisa ser trabalhoso. A chave para manter a motivação é tornar sua imersão divertida.
 
 Você pode assistir programas de TV, vídeos no YouTube ou vídeos do TikTok. Você pode ler tweets, blogs ou livros. Qualquer midia que você goste em sua LM você também pode consumir em sua língua alvo (LA).
