@@ -13,7 +13,7 @@ Por duas razões:
 
 Em vez disso, nós criamos um sistema para ajudar avaliar sua compreensão com base em quanto do significado você compreende.
 
-### Níveis de Compreensão
+### Níveis de compreensão
 Os níveis de compreensão abaixo descrevem as fases entre zero compreensão e a compreensão total, como a de um nativo.
 
 #### Nível 0: Nada
@@ -41,15 +41,15 @@ Os níveis de compreensão abaixo descrevem as fases entre zero compreensão e a
 #### Nível 6: Automático
 * Você entende tudo sem esforço.
 
-### Variações na Compreensão
+### Variações na compreensão
 É importante entender que você terá diferentes níveis de compreensão com diferentes conteúdos. Você pode ter um nível 5 de compreensão num programa infantil, mas nível 3 num noticiário.
 
-### Testando sua Compreensão
+### Testando sua compreensão
 Ao longo do roteiro Refold, utilizamos os níveis de compreensão acima para determinar quando você está pronto para avançar para a próxima etapa. Cada etapa fornece uma autoavaliação para medir a sua compreensão. Estas avaliações explicam o tipo de conteúdo a utilizar e como executar o teste.
 
 À medida que avançamos nas etapas, utilizaremos conteúdos mais difíceis e menos ferramentas para auxiliar a compreensão. A única constante entre os testes é que você não deverá pesquisar no dicionário. Pesquisas no dicionário aumentam artificialmente a sua compreensão e escondem a sua verdadeira capacidade.
 
-### Subindo de Nível
+### Subindo de nível
 Para passar de 2A para 2B, você deverá ter uma compreensão nível 3 em conteúdo destinado a adolescentes. Lembre-se, compreensão nível 3 significa que você pode reconhecer mais da metade das palavras.
 
 Você não precisa entender completamente o que as palavras significam no contexto dado. Se você vir uma palavra e pensar para si mesmo "eu conheço essa palavra, mas não entendo como ela está sendo usada aqui", isso conta como reconhecimento.
