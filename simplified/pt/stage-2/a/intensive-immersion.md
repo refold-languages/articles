@@ -18,13 +18,13 @@ Existem quatro motivos principais para recomendarmos começar com legendas:
 
 Durante a imersão intensiva, seu objetivo é entender o máximo possível. Para isso, pare após cada frase da legenda e tente entendê-la. Caso encontre palavras desconhecidas, busque-as no dicionário.
 
-Enquanto imerge, algumas coisas serão fáceis de entender e outras serão difíceis. Haverá muitas frases que você não conseguirá entender, mesmo com a ajuda de um dicionário.
+Durante a sua imersão, algumas coisas serão fáceis de entender e outras serão difíceis. Haverá muitas frases que você não conseguirá entender, mesmo com a ajuda de um dicionário.
 
 Concentre-se em aprender as coisas para as quais seu cérebro já está pronto. Se você não conseguir entender uma frase após 10 segundos, passe para a próxima.
 
-No ensino tradicional, fala-se de esforçar-se muito para aprender coisas difíceis. Na imersão, a melhor estratégia é concentrar-se apenas nas coisas fáceis. À medida que sua compreensão cresce, as coisas que antes eram difíceis tornam-se fáceis.
+No ensino tradicional, é incentivado esforçar-se muito para aprender coisas difíceis. Na imersão, a melhor estratégia é concentrar-se apenas nas coisas fáceis. À medida que sua compreensão cresce, as coisas que antes eram difíceis tornam-se fáceis.
 
-### O quê assistir
+### O que assistir
 
 #### Legendas
 
@@ -56,7 +56,7 @@ Para programas que você nunca assistiu antes, pode ler resumos antes ou depois 
 
 Imersão intensiva pode ser mentalmente cansativa. Ela requer muita energia e atenção. Quando estiver cansado de fazer imersão intensiva, faça imersão livre.
 
-Se consumir um conteúdo tornar-se algo pesado, mude para outro. Não vale a pena se forçar a imergir com esse conteúdo. O prazer é a parte mais importante do processo.
+Se consumir um conteúdo tornar-se algo pesado, mude para outro. Não há sentido em ter que se forçar a fazer imersão. O prazer é a parte mais importante do processo.
 
 ### Ferramentas de imersão
 
@@ -89,7 +89,7 @@ O YouTube é um ótimo recurso para encontrar programas de TV e outros conteúdo
 
 #### Netflix
 
-Se você estiver usando Netflix, qualquer conteúdo criado originalmente na sua TL terá legendas correspondentes.
+Se você estiver usando Netflix, qualquer conteúdo criado originalmente na sua LA terá legendas correspondentes.
 
 Se você está assistindo dublado, procure legendas marcadas como "CC" (Closed Captions, legenda oculta, originalmente destinada a deficientes auditivos). Se a legenda não está marcada como CC, provavelmente não corresponderá ao áudio.
 
