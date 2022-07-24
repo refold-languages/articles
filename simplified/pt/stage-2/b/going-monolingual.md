@@ -5,7 +5,7 @@ sort: 3
 version: "1.0.0"
 ---
 
-Até agora, você tem usado um *dicionário bilingue*. Procurando uma palavra na língua-alvo (LA) e lendo a definição dessa palavra na sua língua materna (LM).
+Até agora, você tem usado um *dicionário bilingue*. Você procura uma palavra na sua língua-alvo (LA) e lê a definição dessa palavra na sua língua materna (LM).
 
 Assim que tiver uma compreensão [nível 4][level-4] de legendas ou quadrinhos, chega o momento de começar a usar um dicionário* monolíngue*. Um dicionário monolíngue é o mesmo tipo de dicionário que um nativo utilizaria. Você procura uma palavra na sua LA e a definição está na sua LA.
 
