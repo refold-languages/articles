@@ -7,7 +7,7 @@ version: "1.0.0"
 
 Ao começar o processo de aquisição linguística, o primeiro objetivo é construir uma base para a compreensão. Você precisa de compreensão suficiente para começar a aprender diretamente da sua imersão. Como mencionado no último artigo, a maneira mais rápida de construir tal base é aprender as palavras mais usadas.
 
-### Ferramentas de Estudo
+### Ferramentas de estudo
 
 Existem muitas ferramentas e técnicas de memorização diferentes. Na nossa opinião, os SRS (sistemas de repetição espaçada) são, de longe, a ferramenta de memorização mais eficaz.
 
@@ -41,7 +41,7 @@ A comunidade Refold compilou em listas os melhores decks existentes para cada id
 
 Se você não encontrar um bom deck pronto que se adeque aos critérios acima, você pode criar o seu próprio deck e compartilhá-lo com a comunidade.
 
-O primeiro passo para criar um deck é escolher as palavras que você deseja aprender. A melhor maneira de fazer isso é com uma lista de frequência. Uma "lista de frequência" é uma lista organizada pelas palavras mais usadas às menos usadas. Você pode encontrar listas de frequência para qualquer idioma no Google.
+O primeiro passo para criar um deck é escolher as palavras que você deseja aprender. A melhor maneira de fazer isso é com uma lista de frequência. Uma lista de frequência é uma lista organizada pelas palavras mais usadas às menos usadas. Você pode encontrar listas de frequência para qualquer idioma no Google.
 
 Ao escolher uma lista de frequência, certifique-se de que seja uma lista de palavras raiz, ou seja, não conjugadas/flexionadas. Por exemplo, "andar" e "andando" devem ser tratados como a mesma palavra.
 
