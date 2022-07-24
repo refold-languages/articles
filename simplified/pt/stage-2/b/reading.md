@@ -17,7 +17,7 @@ Quando você estiver confortável lendo legendas, você pode passar para leitura
 ### Texto puro
 Texto puro significa que não há informação visual ou auditiva. Livros, blogs e jornais são exemplos de conteúdo de puro texto.
 
-Com legendas, a parte visual do programa de TV te ajuda a seguir a história, mesmo que você não entenda todas as palavras. Ler texto puro é difícil porque não existe contexto visual. Todas as informações sobre a história vêm das palavras na página.
+Com legendas, a parte visual do programa te ajuda a seguir a história, mesmo que você não entenda todas as palavras. Ler texto puro é difícil porque não existe contexto visual. Todas as informações sobre a história vêm das palavras na página.
 
 Ler texto puro não é um requisito para o processo de aprendizagem. Você pode obter fluência num idioma puramente com legendas, se quiser. Porém, muitas pessoas preferem ler livros do que assistir TV.
 
