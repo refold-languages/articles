@@ -17,7 +17,7 @@ Recomendamos muito colocar uma frase de exemplo em cada uma das suas cartas. Car
 
 Algumas palavras têm até dezenas de significados diferentes. Aprender todos estes significados ao mesmo tempo é demasiadamente difícil.
 
-Escolher uma frase de exemplo permite que você limite seu foco para o significado específico que seja relevante para essa frase. Aprender apenas um significado de cada vez é uma forma muito mais efetiva de se aprender vocabulário.
+Escolher uma frase de exemplo permite que você foque apenas significado específico que seja relevante para essa frase. Aprender apenas um significado de cada vez é uma forma muito mais efetiva de se aprender vocabulário.
 
 **2. Uma palavra isolada é difícil de se lembrar**
 
@@ -54,7 +54,7 @@ Se a resposta for sim para qualquer uma dessas perguntas, então vale a pena apr
 
 A imersão intensiva é o melhor momento para extrair frases. Já que você já estará pesquisando palavras e tentando entender frases, é uma oportunidade para encontrar frases 1T durante o processo.
 
-Há vários métodos para criar cartas a partir de frases mineradas:
+Há vários métodos para criar cartas a partir de frases extraídas:
 
 1. Criar cartas enquanto faz a imersão (extração síncrona).
 1. Salvar as frases que quer aprender e criar cartas depois (extração assíncrona).
@@ -68,7 +68,7 @@ Junte-se à [comunidade Refold][join-link] para obter recomendações sobre qual
 
 Há vários formatos de cartas que você pode usar. Nós recomendamos começar com cartas que contenham apenas texto, pois elas são mais fáceis de criar. Há dois tipos de cartas de texto: de vocabulário e de frase. Existem prós e contras de cada um, você pode aprender mais sobre neste [vídeo][vocab-vs-sentence-video]. (Conteúdo em inglês)
 
-Na [Fase 1][vocabulary-cards], recomendamos cartas de vocabulário porque você não sabia palavras suficientes para entender frases completas. Agora que você está na Fase 2, recomendamos mudar para cartas de frase.
+Na [Fase 1][vocabulary-cards], nós recomendamos cartas de vocabulário porque você não sabia palavras suficientes para entender frases completas. Agora que você está na Fase 2, recomendamos mudar para cartas de frase.
 
 #### Formatação de uma carta de frase:
 
