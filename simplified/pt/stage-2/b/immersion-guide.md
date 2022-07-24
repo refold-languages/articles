@@ -5,9 +5,9 @@ sort: 1
 version: "1.0.0"
 ---
 
-O objetivo da [Etapa 2B][level-4] é chegar ao nível 4 de compreensão com um gênero de conteúdo nativo. Uma vez alcançado este nível, a imersão torna-se muito mais fácil porque se compreende o suficiente para ajudar a manter o envolvimento.
+O objetivo da Etapa 2B é chegar ao [nível 4][level-4] de compreensão com um gênero de conteúdo nativo. Uma vez alcançado este nível, a imersão torna-se muito mais fácil porque se compreende o suficiente para ajudar a manter o envolvimento.
 
-Membros da nossa comunidade relatam que, com [nível 4][level-4] de compreensão, a imersão torna-se autossustentável, pois, começam a aguardar ansiosamente para passar tempo com a sua LA.
+Membros da nossa comunidade relatam que, com [nível 4][level-4] de compreensão, a imersão torna-se autossustentável, pois começam a aguardar ansiosamente para passar tempo com a sua LA.
 
 ### Escolhendo conteúdo intermediário
 Conteúdo infantil é ótimo para principiantes, mas não representa como a língua é realmente falada por adultos. Agora que você construiu uma base sólida de compreensão, será mais fácil assistir conteúdos reais para nativos.
@@ -28,7 +28,7 @@ Diferentes tipos de conteúdo utilizam diferentes tipos de linguagem. O estilo d
 
 Ao explorar os seus interesses ao longo da Etapa 2B, irá imergir com muitos assuntos diferentes. Algumas coisas que você aprendeu num assunto não serão úteis para outros. Você pode acelerar o seu processo de compreensão concentrando o seu esforço em apenas alguns assuntos.
 
-Nós recomendamos como primeiro assunto sitcoms slice-of-life (SoL), midia que foca no realismo mundano, representando experiências do cotidiano. Os SoL falam de pessoas normais nas suas vidas diárias. As histórias são simples, proporcionam muito contexto visual e a linguagem que usam é relevante para a vida do dia a dia.
+Nós recomendamos como primeiro assunto sitcoms slice-of-life (SoL), mídia que foca no realismo mundano, representando experiências do cotidiano. Os SoL falam de pessoas normais nas suas vidas diárias. As histórias são simples, proporcionam muito contexto visual e a linguagem que usam é relevante para a vida do dia a dia.
 
 No entanto, há de se balancear com os seus interesses e divertimento.
 
@@ -57,7 +57,5 @@ Assista a um episódio que você nunca viu antes. Pause para ler cada legenda. S
 1. Consigo entender a toda história e não me perder?
 
 Se a resposta é sim, então parabéns! Pase para a Etapa 2C.
-
-[level-4]: /simplified/stage-2/a/measure-comprehension#Level-4-Story
 
 [level-4]: /simplified/stage-2/a/measure-comprehension#Level-4-Story
