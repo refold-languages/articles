@@ -22,7 +22,7 @@ Expressões e referências culturais ou históricas são mais difíceis de encon
 
 Se você não conseguiu descobrir algo depois de 60 segundos de pesquisa, é melhor simplesmente deixar de lado. Algumas referências exigem a leitura de um artigo ou post completo na Wikipédia para entender. Algumas serão muito obscuras para encontrar. Não vale a pena seguir buscando, a menos que você as ache pessoalmente interessantes.
 
-### Imersão livre sem suporte
+### Imersão livre sem suportes
 Nesta fase, o propósito da imersão livre é aumentar a sua capacidade de compreensão auditiva. Seu objetivo até o final da Etapa 2C é compreender conteúdo nativo completo sem legendas ou pesquisar.
 
 A este ponto, sua compreensão de leitura provavelmente é muito maior do que a sua compreensão de auditiva. Para desenvolver a sua compreensão auditiva, remova legendas durante a sua imersão livre para que o seu cérebro seja forçado a desenvolver a capacidade de escutar.
