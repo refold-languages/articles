@@ -23,7 +23,7 @@ Há duas tarefas às quais prestar atenção quando se pratica a fala:
 #### Espelhamento
 O espelhamento permite que observe problemas que estariam fora da sua competência, pois você pode comparar a sua capacidade de fala com uma gravação de um nativo. Em vez de sentir o que está certo ou errado, basta sentir o que é diferente.
 
-#### Gravando a si mesmo
+#### Gravando a si Mesmo
 Quando você está falando, pode ser difícil notar seus próprios erros. Sua mente está ocupada em ouvir o seu interlocutor e criar as suas próprias frases. Gravar a si mesmo te dá a oportunidade de rever/reouvir em outro momento e concentrar-se totalmente na identificação de erros.
 
 Você pode gravar um monólogo ou uma conversa com um nativo. Ouça estas gravações para identificar problemas e deliberadamente praticar o uso correto.
@@ -34,7 +34,7 @@ A performance é limitada pela competência. Quando você tem uma falha de compe
 Você pode obter este feedback durante uma conversa, mas é mais fácil gravar a si mesmo e enviar as gravações para um nativo do idioma. Desta forma, eles podem ouvi-lo várias vezes e te dar o feedback por escrito.
 
 
-### Prática proposital
+### Prática intencional
 
 #### Conversação
 Quando se trata de "saída" (escrita e fala), não há substituto para uma conversação real. Você nunca vai se sentir confortável falando se não praticar com pessoas reais.
