@@ -31,7 +31,7 @@ Por isso, encorajamos concentrar-se no que é fácil e ignorar o que não está 
 Na Etapa 3B, são adicionados dois novos ciclos ao processo: um para melhorar escrita e outro para melhorar a pronúncia.
 
 ### Melhorando a escrita
-Ao final da Etapa 3B, você deve se sentir confortável com uma conversa escrita na sua LA. Para fazer isso, use o seguinte ciclo:
+Ao final da Etapa 3B, você deve se sentir confortável com uma conversa escrita na sua TL. Para fazer isso, use o seguinte ciclo:
 
 1. Conversar um parceiro de idiomas ou um professor no iTalki.
 1. Ser corrigido por um falante nativo (ou usar o Google para correção).
