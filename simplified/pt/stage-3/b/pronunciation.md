@@ -26,7 +26,7 @@ Quando você começar a fazer espelhamento, será difícil acompanhar o ritmo. V
 Com o tempo, fica mais fácil acompanhar o ritmo. Eventualmente, você será capaz de imediatamente ouvir o áudio e reproduzir o que ouve. Quando conseguir acompanhar facilmente o áudio, mude o seu foco para sua cadência e pronúncia. O objetivo é soar o máximo possível como a pessoa que você está ouvindo.
 
 
-### Escolhendo com o que praticar
+### Escolhendo o que espelhar
 Quando estiver começando a fazer espelhamento, você pode usar qualquer conteúdo que quiser. No entanto, quando conseguir acompanhar o áudio, você deve optar por usar apenas o seu padrinho. Se você tentar imitar várias pessoas, seu sotaque se tornará uma mistura louca de todas elas. Ao estreitar o seu foco a uma única pessoa, você aprende a falar com um estilo natural e consistente.
 
 Escolha conteúdo no qual o seu padrinho fala naturalmente. Idealmente, deve ser algo não roteirizado e não editado. Você deverá ter pelo menos [nível 5][level-5] de compreensão no conteúdo que você escolheu para espelhar.
