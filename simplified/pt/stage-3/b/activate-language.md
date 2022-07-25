@@ -14,7 +14,7 @@ Um benefício adicional deste processo é que você também identifica as partes
 ### Escrita
 Como constatamos em [3A: Comece pela Escrita][start-writing], recomendamos começar a escrever em vez de falar, pois, falar é, na verdade, uma mistura de várias competências.
 
-Outra razão pela qual recomendamos escrever é porque você não pode esconder seus erros. Isto facilita ser corrigido e te força a confrontrar os seus erros, impedindo que eles se solidifiquem e se tornem maus hábitos.
+Outra razão pela qual recomendamos escrever é porquê você não pode esconder seus erros. Isto facilita ser corrigido e te força a confrontrar os seus erros, impedindo que eles se solidifiquem e se tornem maus hábitos.
 
 Por isso, durante a escrita, você deve evitar pesquisas de dicionário ou de gramática. Estes recursos escondem sua verdadeira habilidade.
 
