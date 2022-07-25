@@ -28,7 +28,7 @@ Para medir sua competência:
 
 Cada erro que você perceber é um erro de performance. Você já desenvolveu a competência suficiente para identificar esses erros intuitivamente.
 
-Cada erro que você não notou ou não sabia como corrigir é uma lacuna na sua competência.
+Cada erro que você não notou ou não sabia como corrigir é uma lacuna da competência.
 
 ### Corrigindo erros
 Erros de performance são mais fáceis de corrigir do que lacunas de competência. Se você tem competência suficiente para notar algo, é apenas uma questão de praticar até que possa adquirir o uso correto.
