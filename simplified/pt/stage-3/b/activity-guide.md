@@ -60,7 +60,7 @@ Nós frequentemente recebemos a pergunta: "Quanto de cada atividade devo fazer p
 Aprender uma língua leva anos. Com qualquer objetivo de longo prazo, é melhor pensar em semanas do que em dias. Você não precisa fazer todos os exercícios todo dia. Na verdade, ao integrar uma nova prática, pode ser até melhor se concentrar em tal prática exclusivamente durante 1 a 2 semanas até se tornar confortável com ela. Você pode se concentrar na escrita durante duas semanas, e depois na pronúncia nas duas seguintes.
 
 Porém, uma vez que você estiver confortável, recomendamos que cada exercício seja feito várias vezes na semana. Uma rotina seria, por exemplo:
-* Praticar shadowing quatro vezes por semana por 15 minutos
+* Praticar espelhamento quatro vezes por semana por 15 minutos
 * Praticar escrita 3 vezes por semana durante 30 a 60 minutos
 * Imergir no conteúdo do seu padrinho e conversações casuais 15 horas por semana
 * Imersão divertida no tempo restante
