@@ -13,7 +13,7 @@ Existem dois tipos de conversação real:
 1. Conversação escrita
 1. Conversação falada
 
-### Conversação escrita
+### Conversação Escrita
 Conversação escrita inclui mensagens de texto, fóruns, salas de bate-papo, comentários de YouTube, Twitter e blogs. A linguagem utilizada é casual, bagunçada e desestruturada. Demora algum tempo para se acostumar.
 
 Comece lendo conversas de outras pessoas em chats e fóruns. Tente encontrar conversas sobre um tópico no qual você está interessado. Por exemplo, se você gosta do universo Marvel, encontre um fórum de fãs onde as pessoas discutam sobre filmes e programas de TV da Marvel.
