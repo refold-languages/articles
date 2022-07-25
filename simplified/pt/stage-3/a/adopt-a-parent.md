@@ -7,7 +7,7 @@ version: "1.0.0"
 
 A maioria dos aprendizes de idiomas querem falar como um nativo, mas cada nativo fala de maneira diferente. Então, como "soar nativo" se cada nativo soa diferente?
 
-Em vez de tentar "soar nativo", o mais produtivo a se fazer é: emular um nativo em específico. Essa pessoa será seu "padrinho" no seu idioma.
+Em vez de tentar "soar nativo", o mais produtivo a se fazer é emular um nativo em específico. Essa pessoa será seu "padrinho" no seu idioma.
 
 ### Escolhendo seus padrinhos
 Ao avaliar opções para potenciais padrinhos, tenha em mente as seguintes questões:
