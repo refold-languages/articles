@@ -45,7 +45,7 @@ Evite a frustração. A compreensão virá com o tempo.
 ### Quanto imergir
 Quanto mais imersão você fizer, mais rápido você adquirirá sua LA. Se a sua LA for semelhante à sua LM, recomendamos 2 a 3 horas por dia de imersão ativa (intensiva ou livre). Para idiomas mais difíceis, 5 horas ou mais por dia é o ideal para progredir rápido.
 
-Isso pode parecer muito tempo, mas lembre-se, imersão não precisa ser algo trabalhoso e pesado. Se você converter o seu tempo de lazer para sua LA, você pode relaxar com o seu programa de TV da LA favorito e aprender o idioma ao mesmo tempo.
+Isso pode parecer muito tempo mas lembre-se, imersão não precisa ser algo trabalhoso e pesado. Se você converter o seu tempo de lazer para sua LA, você pode relaxar com o seu programa de TV da LA favorito e aprender o idioma ao mesmo tempo.
 
 ### Subindo de nível
 Você estará pronto para avançar para a Etapa 2C quando você tiver o [nível 4][level-4] compreensão em conteúdo nativo que nunca viu antes. Pode usar legendas e pausar a cada linha, mas sem pesquisar nada.
