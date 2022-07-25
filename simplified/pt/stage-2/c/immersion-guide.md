@@ -13,8 +13,8 @@ Abaixo, criamos exemplos de planos de imersão para cada uma das duas atividades
 
 ### Plano focado em leitura
 Imersão intensiva
-* Assistir: Friends com legendas
-* Ler: um quadrinho slice-of-life
+* Assistir: "Friends" com legendas
+* Ler: um quadrinho "slice-of-life"
 * Ler: blogs pessoais
 
 Extração de frases:
