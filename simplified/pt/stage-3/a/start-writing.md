@@ -7,7 +7,7 @@ version: "1.0.0"
 
 Na [Fase 0][what-is-immersion], explicamos que imersão é o meio pelo qual se adquire instinto para a língua. Este instinto permite que você se corrija e navegue pelo idioma de maneira intuitiva.
 
-Este instinto não está totalmente maduro até que você tenha [nível 6][level-6] de compreensão em muitos assuntos. Você pode estar tentado a esperar ter desenvolvido completamente este instinto antes de começar a praticar saída (fala e escrita) mas essa seria a rota mais lenta para a fluência.
+Este instinto não está totalmente desenvolvido até que você tenha [nível 6][level-6] de compreensão em muitos assuntos. Você pode estar tentado a esperar ter desenvolvido completamente este instinto antes de começar a praticar saída (fala e escrita) mas essa seria a rota mais lenta para a fluência.
 
 Com [nível 5][level-5] de compreensão, você já desenvolveu um instinto parcial para o idioma. Ao praticar a fala e escrita a neste nível, você se força a testar esse instinto contra a realidade. Combinado com entrada (escutar e ler), correções e comentários que você recebe sobre sua saída, este instinto amadurece mais rápido do que com apenas entrada.
 
