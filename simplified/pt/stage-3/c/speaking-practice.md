@@ -1,6 +1,6 @@
 ---
-title: "Prática de escrita"
-roadmapTitle: "Prática de escrita"
+title: "Pratica de fala"
+roadmapTitle: "Prática de fala"
 sort: 3
 version: "1.0.0"
 ---
