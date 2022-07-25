@@ -12,7 +12,7 @@ Abaixo, descrevemos características linguísticas comuns a que deve começar a 
 Não espere dominar todos estes itens na Fase 3. O objetivo é, apenas começar a reparar nestas coisas durante a sua imersão. Percepção é o primeiro passo para adquirir estes aspectos da língua e melhorar a sua competência.
 
 ### Formulação nativa
-Um dos erros que as pessoas mais cometem é formular uma frase na LA da mesma forma formulada na sua língua materna (LM).
+Um dos erros que as pessoas mais cometem é formular uma frase na LA da mesma forma que é formulada na sua língua materna (LM).
 
 Línguas diferentes expressam as mesmas ideias de maneiras diferentes. Se você tentar transferir uma expressão da sua LM para a sua LA, geralmente não vai soar natural e pode até nem fazer sentido.
 
@@ -25,7 +25,7 @@ Nós falamos de formas diferentes em situações diferentes. Você não fala com
 
 Cada língua e cultura tem diferentes registos e normas sociais para diferentes situações. Você precisará aprender como falar e como usar cada registro de forma apropriada.
 
-### Preenchimentos e Hesitações
+### Preenchimentos e hesitações
 A fala natural é uma bagunça. As pessoas param para pensar no meio das frases, clarificam declarações anteriores e inserem coisas não diretamente relacionadas.
 
 Nativos utilizam padrões específicos para fazer com que uma fala desconexa sinta natural. Utilizar estes padrões de forma correta e na quantidade certa torna o seu discurso mais natural e mais agradável para os falantes nativos.
@@ -33,9 +33,9 @@ Nativos utilizam padrões específicos para fazer com que uma fala desconexa sin
 ### Acentuação e tonalidade
 Na Fase 1, você aprendeu os fonemas básicos da sua LA. Além destes fonemas básicos, algumas línguas também utilizam características como acentuação e tonalidade para diferenciar o significado das palavras.
 
-Por exemplo, o inglês às vezes utiliza a acentuação para distinguir entre substantivos, adjetivos e verbos que têm a mesma grafia. "PER-fect" é um adjetivo, enquanto "per-FECT" é verbo.
+Por exemplo, o inglês às vezes utiliza a acentuação para distinguir entre substantivos, adjetivos e verbos que têm a mesma grafia. "PER-fect" é um adjetivo (perfeito), enquanto "per-FECT" é verbo (aperfeiçoar).
 
-Além das modificações de palavras individuais, também é necessário prestar atenção à entonação. Entonação é a variação de tom e acentuação ao longo de uma frase. A entonação pode alterar drasticamente a nuance de uma frase. Por exemplo, em alguns idiomas como inglês e português, é usado um certo padrão para transmitir sarcasmo.
+Além das modificações de palavras individuais, também é necessário prestar atenção à entonação. Entonação é a variação de tom e acentuação ao longo de uma frase. A entonação pode alterar drasticamente a nuance de uma frase. Por exemplo, no inglês, usa-se um certo padrão para transmitir sarcasmo.
 
 É útil ler sobre os padrões e características fonéticas utilizadas na sua LA para assim reparar em tais coisas durante a sua imersão.
 
