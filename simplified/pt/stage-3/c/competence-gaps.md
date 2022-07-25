@@ -21,7 +21,7 @@ Por exemplo, em português você "toma" um remédio: "eu tomei o remédio". Em j
 Parte de aprender uma língua estrangeira é aprender a maneira correta de expressar determinadas ideias. Em vez de perguntar-se “como eu digo isto na minha LA?”, pergunte-se “o que um nativo diria nesta situação?”
 
 ### Registros
-Nós falamos de formas diferentes em situações diferentes. Você não fala com uma criança da mesma forma como falaria com um rei. Estes jeitos diferentes de falar chamam-se "registos".
+Nós falamos de formas diferentes em situações diferentes. Você não fala com uma criança da mesma forma como falaria com um rei. Estes jeitos diferentes de falar chamam-se "registros".
 
 Cada língua e cultura tem diferentes registos e normas sociais para diferentes situações. Você precisará aprender como falar e como usar cada registro de forma apropriada.
 
@@ -35,7 +35,7 @@ Na Fase 1, você aprendeu os fonemas básicos da sua LA. Além destes fonemas b�
 
 Por exemplo, o inglês às vezes utiliza a acentuação para distinguir entre substantivos, adjetivos e verbos que têm a mesma grafia. "PER-fect" é um adjetivo (perfeito), enquanto "per-FECT" é verbo (aperfeiçoar).
 
-Além das modificações de palavras individuais, também é necessário prestar atenção à entonação. Entonação é a variação de tom e acentuação ao longo de uma frase. A entonação pode alterar drasticamente a nuance de uma frase. Por exemplo, no inglês, usa-se um certo padrão para transmitir sarcasmo.
+Além das modificações de palavras individuais, também é necessário prestar atenção à entonação. Entonação é a variação de tom e acentuação ao longo de uma frase. A entonação pode alterar drasticamente a nuance de uma frase. Por exemplo, em alguns idiomas como inglês e português, é usado um certo padrão para transmitir sarcasmo.
 
 É útil ler sobre os padrões e características fonéticas utilizadas na sua LA para assim reparar em tais coisas durante a sua imersão.
 
