@@ -7,7 +7,7 @@ version: "1.0.0"
 
 A maioria dos aprendizes de idiomas querem falar como um nativo, mas cada nativo fala de maneira diferente. Então, como "soar nativo" se cada nativo soa diferente?
 
-Em vez de tentar "soar nativo", o mais produtivo a se fazer é emular um nativo em específico. Essa pessoa será seu "padrinho" no seu idioma.
+Em vez de tentar "soar nativo", o mais produtivo a se fazer é copiar um nativo em específico. Essa pessoa será seu "padrinho" no seu idioma.
 
 ### Escolhendo seus padrinhos
 Ao avaliar opções para potenciais padrinhos, tenha em mente as seguintes questões:
@@ -39,7 +39,7 @@ Para adotar um padrinho por completo, você precisa:
 1. Escutá-lo por muito tempo.
 1. Praticar falar como ele ou ela.
 
-Nós naturalmente, imitamos as pessoas com quem passamos muito tempo. Se você escutar muito o seu padrinho, naturalmente começará a imitá-lo. Você pode acelerar o processo intencionalmente copiando-o com uma prática chamada espelhamento. Explicaremos como fazer shadowing na Etapa 3B.
+Nós naturalmente imitamos as pessoas com quem passamos muito tempo. Se você escutar muito o seu padrinho, naturalmente começará a imitá-lo. Você pode acelerar o processo intencionalmente copiando-o com uma prática chamada espelhamento. Explicaremos como fazer espelhamento na Etapa 3B.
 
 Quando você começar a imergir no conteúdo do seu padrinho, sua compreensão provavelmente cairá, pois seu padrinho falará de forma diferente do conteúdo com o qual você está acostumado. Para desenvolver compreensão rapidamente, recomendamos passar 50% da sua imersão ativa e 100% da sua imersão passiva com seu padrinho. Também é recomendável extrair frases do conteúdo deles.
 
