@@ -35,7 +35,7 @@ Até que você tenha desenvolvido a intuição para autocorreção, é important
 
 Ao ser corrigido por um falante nativo, sua tendência natural será tentar memorizar o que te disseram. É incorreto pensar sobre a correção desta forma. Lembre-se, o objetivo de correção é ajudar a perceber os erros, não consertá-los. Quando ver as frases corretas o suficiente em sua imersão, seu cérebro naturalmente corrigirá o erro.
 
-Ao ser corrigido por um nativo, confie nas suas correções, mas desconfie da sua explicação do _porquê_ de algo estar errado. A maioria dos falantes nativos são ruins em explicar regras gramaticais porquê nunca as estudaram. Eles aprenderam sua língua materna inteiramente através da imersão.
+Ao ser corrigido por um nativo, confie nas suas correções, mas desconfie da sua explicação do _porquê_ de algo estar errado. A maioria dos falantes nativos são ruins em explicar regras gramaticais porque nunca as estudaram. Eles aprenderam sua língua materna inteiramente através da imersão.
 
 #### Corrigindo pelo Google
 Se você não houver um falante nativo disponível, você pode usar o Google. Se você escreveu uma frase e não tem certeza se soa natural, você pode procurá-la no Google para ver o quão comum ela é.
