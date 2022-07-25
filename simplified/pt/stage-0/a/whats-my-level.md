@@ -1,15 +1,15 @@
 ---
-title: "Qual o meu Nível?"
-roadmapTitle: "Qual o meu Nível?"
+title: "Qual o meu nível?"
+roadmapTitle: "Qual o meu nível?"
 sort: 3
 version: "1.0.4"
 ---
 
 Há quatro fases no roteiro do Refold:
-1. Aprendendo o Básico
-1. Aprendendo a Entender
-1. Aprendendo a Falar
-1. Expandindo Sua Capacidade
+1. Aprender o básico
+1. Aprendendo a entender
+1. Aprendendo a falar
+1. Expandindo sua capacidade
 
 Cada fase é dividida em etapas. Cada fase tem seus objetivos, estratégias e conselhos que te ajudam a concentrar no que é mais benéfico para o estágio que você se encontra. A cada etapa, colocamos autoavaliações para ajudar a determinar se você está pronto para seguir em frente.
 
