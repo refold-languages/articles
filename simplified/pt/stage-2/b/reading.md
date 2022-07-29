@@ -28,7 +28,7 @@ O próximo passo depois das legendas são os quadrinhos. Quadrinhos são geralme
 
 Quadrinhos não têm áudio para te ajudar a analisar as frases, mas eles têm contexto visual como a TV. O contexto visual ajuda na compreensão e faz dos quadrinhos uma boa ponte entre legendas e o texto puro.
 
-Muitos quadrinhos estão disponíveis on-line; eles são chamados de "webcomics" e são facilmente encontrados no Google. Junte-se à [comunidade do Discord][join-link] para fazer sugestões de quadrinhos na sua língua-alvo (LA).
+Muitos quadrinhos estão disponíveis on-line; eles são chamados de "webcomics" e são facilmente encontrados no Google. Junte-se à [comunidade do Discord][join-link] para fazer sugestões de quadrinhos na sua target language (TL, língua-alvo).
 
 ### Graded readers
 Se você estiver pronto consumir texto puro, recomendamos começar com graded readers. Graded readers (em inglês, "leituras escalonadas") são livros simplificados para crianças ou aprendizes. A linguagem simplificada ajuda a superar a curva de aprendizagem do texto puro.
@@ -36,7 +36,7 @@ Se você estiver pronto consumir texto puro, recomendamos começar com graded re
 Visto que tenha lido alguns graded readers, você estará muito mais preparado para ler livros para nativos.
 
 ### Livros para crianças
-Se não houver graded readers disponíveis para sua LA ou se você não estiver interessado nos que estão disponíveis, pode ler livros para crianças.
+Se não houver "graded readers" disponíveis para sua LA ou se você não estiver interessado nos que estão disponíveis, pode ler livros para crianças.
 
 Não se engane. Apenas por um livro ser para crianças, não significa que ele será fácil para um aprendiz de línguas. Livros para crianças costumam usar palavras divertidas e interessantes que provavelmente não terá aprendido lendo legendas.
 
