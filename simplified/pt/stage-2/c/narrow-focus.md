@@ -18,7 +18,7 @@ Como dito na Etapa 2B, diferentes tipos de conteúdo usam diferentes assuntos. P
 
 Na Etapa 2B, você estava focado em se divertir e seguir seus interesses, então você provavelmente esteve pulando entre diferentes domínios. Saltar de domínio a domínio diminui sua progressão para o nível 5, pois interrompe a aquisição da linguagem específica de cada assunto.
 
-Para acelerar o processo, recomendamos que você escolha um único assunto para dominar antes de passar para outro. Mais precisamente, recomendamos conteúdo slice-of-ife (SoL) por ser mais relevante para a fala diária.
+Para acelerar o processo, recomendamos que você escolha um único assunto para dominar antes de passar para outro. Mais precisamente, recomendamos conteúdo slice-of-life (SoL) por ser mais relevante para a fala diária.
 
 Centrando o seu foco em SoL, você adquirirá mais rapidamente aspectos sutis da língua e estará se preparando para começar a falar na Fase 3.
 
