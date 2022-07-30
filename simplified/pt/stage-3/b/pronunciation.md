@@ -7,7 +7,7 @@ version: "1.0.0"
 
 Devido à sua prática auditiva extensiva, seu ouvido deve estar bem treinado para ouvir os sons da sua língua-alvo. No entanto, só porque consegue ouvir um som, não significa que consiga reproduzi-lo.
 
-Pronúncia é uma habilidade física. Há músculos na sua boca que precisam ser trabalhados e treinados. Você precisará de várias semanas de prática constante para acostumar a sua boca a pronunciar sua nova língua.
+Pronúncia é uma habilidade física. Há músculos na sua boca que precisam ser trabalhados e treinados. Você precisará de várias semanas de prática constante para acostumar a sua boca a pronunciar a sua nova língua.
 
 ### Espelhamento
 Há muitos [exercícios][pronunciation-training] que você pode fazer para praticar a sua pronúncia, mas o mais importante é o espelhamento.
