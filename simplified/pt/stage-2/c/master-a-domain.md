@@ -5,7 +5,7 @@ sort: 2
 version: 1.0.0
 ---
 
-Para graduar da Etapa 2C para a Etapa 3A, você deverá ter uma [compreensão nível 5][level-5] num assunto. Subir de [nível 4][level-4] para nível 5 é um desafio que requer algumas mudanças de estratégia. Já discutimos a primeira mudança: focar num único assunto.
+Para graduar-se da Etapa 2C para a Etapa 3A, você deverá ter uma [compreensão nível 5][level-5] num assunto. Subir de [nível 4][level-4] para nível 5 é um desafio que requer algumas mudanças de estratégia. Já discutimos a primeira mudança: focar num único assunto.
 
 Há mais duas alterações de estratégia que recomendamos:
 1. Tornar a imersão intensiva mais intensiva.
