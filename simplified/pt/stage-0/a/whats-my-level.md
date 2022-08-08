@@ -32,7 +32,7 @@ Quando chegar ao Nível 2C, você estará desfrutando do seu conteúdo, mas aind
 
 Conteúdo nativo é qualquer conteúdo originalmente criado na sua LA para nativos daquele idioma. Isso não inclui traduções ou conteúdo direcionado a alunos.
 
-Você pode escolher qualquer assunto que quiser (por exemplo: ficção científica, moda ou culinária), porém, nós recomendamos focar primeiro em conteúdo slice-of-life (gênero que foca no realismo mundano, representando experiências do cotidiano), pois é mais relevante ao uso no dia a dia.
+Você pode escolher qualquer assunto que quiser (por exemplo: ficção científica, moda ou culinária), porém, nós recomendamos focar primeiro em conteúdo *slice-of-life* (gênero que foca no realismo mundano, representando experiências do cotidiano), pois é mais relevante ao uso no dia a dia.
 
 ### Passo 3: Aprendendo a falar
 A Fase 3 foca-se em converter sua compreensão em capacidade de fala. A Fase 3 está dividida em três etapas:
