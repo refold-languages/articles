@@ -39,7 +39,7 @@ A imersão intensiva tende a ser mais cansativa mentalmente do que a livre, por 
 ### Imersão passiva
 A maioria das pessoas não consegue passar o dia todo vendo televisão ou lendo. Porém, a maioria de nós tem tempo no dia para ouvir a nossa LA.
 
-Imersão passiva é quando se presta atenção parcial ao áudio. Pode-se ouvir no carro a caminho do trabalho, ou enquanto cozinha. Dirigir e fazer tarefas domésticas não requer muita energia mental, então pode-se ouvir à sua LA enquanto realiza estas atividades.
+Imersão passiva é quando se presta atenção parcial ao áudio. Você pode ouvir passivamente no carro a caminho do trabalho, ou enquanto cozinha. Dirigir e fazer tarefas domésticas não requer muita energia mental, então pode-se ouvir à sua LA enquanto realiza estas atividades.
 
 A imersão passiva é uma excelente forma de aumentar o tempo total da sua imersão. Não é tão eficaz quanto a imersão ativa, mas ainda assim ajuda muito.
 
