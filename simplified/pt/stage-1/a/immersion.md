@@ -7,7 +7,7 @@ version: "1.0.0"
 
 Imersão é a base da aquisição linguística. Através da imersão, você se expõe a cada palavra, frase e estrutura gramatical em diversas situações diferentes até conseguir intuitivamente captar as suas nuances.
 
-A quantidade de tempo de imersão é o fator mais importante na rapidez em que você adquire a sua língua-alvo (LA). É importante começar a fazer imersão desde o primeiro dia de estudo para acumular horas de imersão e dar início ao processo de aquisição. Mesmo que você não compreenda nada, seu cérebro trabalhará duro para decodificar a língua.
+A quantidade de tempo de imersão é o fator mais importante na rapidez em que você adquire a sua língua-alvo (LA). É importante começar a fazer imersão desde o primeiro dia de estudo para acumular horas de imersão e dar início ao processo de aquisição. Mesmo que você não compreenda nada, seu cérebro se esforçará para decodificar a língua.
 
 ### Tolerando a ambiguidade
 Novos aprendizes frequentemente caem na armadilha de não se sentirem "prontos" para a imersão. Imergir em conteúdo que você não entende é desconfortável. Iniciantes tendem a evitar este desconforto adiando a imersão e focando-se apenas no estudo ativo.
@@ -36,7 +36,7 @@ Ao chegar na etapa 2A, você já não deverá consumir mais conteúdo com legend
 ### Resistência
 Imergir numa nova língua é cansativo. Você se cansará rapidamente. Pode até mesmo ter dores de cabeça.
 
-Certifique-se de fazer pausas frequentes, de dormir bem, tirar sonecas para recarregar. Com o tempo, sua resistência aumentará e você poderá imergir por várias horas seguidas.
+Certifique-se de fazer pausas frequentes, de dormir bem e tirar sonecas para recarregar. Com o tempo, a sua resistência aumentará e você poderá imergir por várias horas seguidas.
 
 ### Encontrando conteúdo
 Ao longo de toda a sua jornada, você passará milhares de horas com a sua LA, então é importante encontrar conteúdo que você goste. Quanto mais você gostar do conteúdo, mais instigado ficará e mais rápido vai aprender.
