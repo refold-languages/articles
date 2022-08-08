@@ -5,7 +5,7 @@ sort: 1
 version: 1.0.0
 ---
 
-Na Etapa 2B, o foco é chegar num nível de compreensão que te permita se divertir com a sua imersão. Compreensão [nível 4][level-4] é boa o suficiente para se divertir, mas ainda te faltam partes importantes da língua.
+Na Etapa 2B, o foco é chegar num nível de compreensão que permita você se divertir com a sua imersão. Compreensão [nível 4][level-4] é boa o suficiente para se divertir, mas ainda te faltam partes importantes da língua.
 
 O objetivo da [Etapa 2C][level-5] é chegar ao nível 5 de compreensão num único assunto de conteúdo nativo. Neste nível, seu cérebro consegue identificar e adquirir mais aspectos sutis da língua.
 
@@ -23,7 +23,7 @@ Para acelerar o processo, recomendamos que você escolha um único assunto para 
 Centrando o seu foco em SoL, você adquirirá mais rapidamente aspectos sutis da língua e estará se preparando para começar a falar na Fase 3.
 
 ### Diversão
-Como sempre, é necessário equilibrar a eficiência e a diversão
+Como sempre, é necessário buscar o equilíbrio entre a eficiência e a diversão.
 
 O ideal é sempre aproveitar do assunto em que escolheu focar. Infelizmente, este não vai ser o caso para a maioria das pessoas. Se você ficar entediado com um assunto, inclua outros conteúdos que te interessem e te animem.
 
