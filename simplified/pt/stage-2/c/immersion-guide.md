@@ -13,24 +13,24 @@ Abaixo, criamos exemplos de planos de imersão para cada uma das duas atividades
 
 ### Plano focado em leitura
 Imersão intensiva
-* Assistir: "Friends" com legendas
-* Ler: um quadrinho "slice-of-life"
+* Assistir: *Friends* com legendas
+* Ler: um quadrinho *slice-of-life*
 * Ler: blogs pessoais
 
 Extração de frases:
 * Tentar entender cada palavra desconhecida e criar cartas para quase todas elas.
 
 Imersão passiva:
-* Escutar áudios destes episódios de Friends para ouvir o que está aprendendo no Anki.
+* Escutar áudios destes episódios de *Friends* para ouvir o que está aprendendo no Anki.
 
 ### Plano focado em audição
 Imersão livre sem suportes:
-* Assistir: How I Met Your Mother
+* Assistir: *How I Met Your Mother*
 * Assistir: vídeos no YouTube de histórias pessoais
 * Ouvir: podcasts com histórias pessoais
 
 ### Subindo de nível
-No final da Etapa 2C, você deverá ter nível 5 de compreensão em conteúdo de slice-of-life para adultos. Use as seguintes instruções para se testar.
+No final da Etapa 2C, você deverá ter nível 5 de compreensão em conteúdo de *slice-of-life* para adultos. Use as seguintes instruções para se testar.
 
 Escolha um episódio de um programa de TV que você nunca viu antes. Desative as legendas. Assista a todo o episódio sem pausar ou voltar. Pergunte-se as seguintes questões:
 * Você consegue distinguir quase todas as palavras faladas?
