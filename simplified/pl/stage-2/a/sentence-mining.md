@@ -1,11 +1,11 @@
 ---
 title: "Kopalnia Zdań"
-roadmapTitle: "Koplania zdań"
+roadmapTitle: "Kopalnia Zdań"
 sort: 2
 version: "1.0.0"
 ---
 
-"Wydobywanie zdań" jest procesem, podczas którego znajdujesz nowe słowa w trakcie imersji i przekształcasz te słowa w karty Anki. Nazywamy ten proces “wydobywaniem zdań z kopani” ponieważ słowa są wydobywane ze zdań, w których je znalazłeś, tak jak złoto jest wydobywane z ziemi. Wydobywając zdania, uczysz się słów, które są najważniejsze dla ciebie i dla twojej imersji. Jest to naprawdę efektywny i wspaniały proces budowania słownictwa.
+"Wydobywanie zdań" jest procesem, podczas którego znajdujesz nowe słowa w trakcie imersji i przekształcasz te słowa w karty Anki. Nazywamy ten proces “wydobywaniem zdań z kopani” ponieważ słowa są wydobywane ze zdań, w których je znalazłeś, tak jak złoto jest wydobywane z ziemi. Wydobywając zdania, uczysz się słów, które są najważniejsze dla ciebie i dla twojej immersji. Jest to naprawdę efektywny i wspaniały proces budowania słownictwa.
 
 Możesz otworzyć swoją kopalnię, kiedy tylko zechcesz, aczkolwiek wydobywanie zdań będzie niezwykle trudne dla osób niemających jeszcze solidnych fundamentów gramatyki i słownictwa. Zalecamy nauczenie się przynajmniej tysiąca słów przed założeniem własnej kopalni zdań.
 

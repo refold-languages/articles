@@ -7,9 +7,9 @@ version: "1.0.0"
 
 Kiedy mówisz po polsku, nie myślisz o gramatyce. Nawigujesz poprzez polski za pomocą intuicji. Czujesz co jest prawidłowe a co nie jest. Umiejętność intuicyjnej nawigacji języka nazywana jest „kompetencją”.
 
-W Etapie 2 skupiłeś się na budowaniu zrozumienia, ponieważ to właśnie zrozumienie jest główną metodą budowania kompetencji. Mając kompetencje wysokiego poziomu, kiedy widzisz jakiś fragment języka, to intuitywne jesteś w stanie ocenić jego prawidłowość.
+W Etapie 2 skupiłeś się na budowaniu zrozumienia, ponieważ to właśnie zrozumienie jest główną metodą budowania kompetencji. Mając kompetencje wysokiego poziomu, kiedy widzisz jakiś fragment języka, to intuitywnie jesteś w stanie ocenić jego prawidłowość.
 
-Odtwarzanie języka jest umiejętnością używania kompetencji podczas konwersacji. Jest to umiejętność składające się z przekształcania myśli na język docelowy, prawidłowej wymowy i utrzymywania naturalnego rytmu konwersacji.
+Odtwarzanie języka jest umiejętnością używania kompetencji podczas konwersacji. Jest to umiejętność składająca się z przekształcania myśli na język docelowy, prawidłowej wymowy i utrzymywania naturalnego rytmu konwersacji.
 
 ### Kompetencja na pierwszym miejscu
 W Refold naszym priorytetem jest zbudowanie silnej kompetencji przed ćwiczeniem odtwarzania języka. Budowanie fundamentów kompetencji, uczy cię jak język powinien być używany i jak powinien brzmieć.
