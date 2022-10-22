@@ -1,6 +1,6 @@
 {
   "name": "refold-articles",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Articles repository for refold.la",
   "main": "index.js",
   "scripts": {
